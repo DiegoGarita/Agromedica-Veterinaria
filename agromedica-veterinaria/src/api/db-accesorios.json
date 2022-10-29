@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Accesorio 1",
+    "description": "Esta es la descripción genérica para el accesorio 1 donde se mostrará información más detallada",
+    "image": "http://drive.google.com/uc?export=view&id=1knv6N13Z5OCyL9b9RUzGBM4sza1dLS6J"
+  },
+  {
+    "id": 2,
+    "name": "Accesorio 2",
+    "description": "soy el Accesorio 2 description",
+    "image": "http://drive.google.com/uc?export=view&id=1RrNejVqre28UKs6R-Svfa56NJoVd9tZV"
+  },
+  {
+    "id": 3,
+    "name": "Accesorio 3",
+    "description": "soy el Accesorio 3 description",
+    "image": "http://drive.google.com/uc?export=view&id=14yupZ-KJAwnqkILgomI0QpUJiFoumIj7"
+  },
+  {
+    "id": 4,
+    "name": "Accesorio 4",
+    "description": "soy el Accesorio 4 description",
+    "image": "http://drive.google.com/uc?export=view&id=1WPkQnPUOK8jsNgKFAvA-3GUa6s4S_gp_"
+  },
+  {
+    "id": 5,
+    "name": "Accesorio 5",
+    "description": "soy el Accesorio 5 description",
+    "image": "http://drive.google.com/uc?export=view&id=1YdVDwRRQw95Da_-sapsBl6_f9qy4VHEq"
+  },
+  {
+    "id": 6,
+    "name": "Accesorio 6",
+    "description": "Accesorio 6 description gen + detalles",
+    "image": "http://drive.google.com/uc?export=view&id=17vT5xVtJJCleR82agjMtlFhZiJ1U3nTg"
+  },
+  {
+    "id": 7,
+    "name": "Accesorio 7",
+    "description": "soy el Accesorio 7 description",
+    "image": "http://drive.google.com/uc?export=view&id=1RrNejVqre28UKs6R-Svfa56NJoVd9tZV"
+  },
+  {
+    "id": 8,
+    "name": "Accesorio 8",
+    "description": "soy el Accesorio 8 description",
+    "image": "http://drive.google.com/uc?export=view&id=14yupZ-KJAwnqkILgomI0QpUJiFoumIj7"
+  },
+  {
+    "id": 9,
+    "name": "Accesorio 9",
+    "description": "soy el Accesorio 9 description",
+    "image": "http://drive.google.com/uc?export=view&id=1WPkQnPUOK8jsNgKFAvA-3GUa6s4S_gp_"
+  },
+  {
+    "id": 10,
+    "name": "Accesorio 10",
+    "description": "soy el Accesorio 10 description",
+    "image": "http://drive.google.com/uc?export=view&id=1YdVDwRRQw95Da_-sapsBl6_f9qy4VHEq"
+  },
+  {
+    "id": 11,
+    "name": "Accesorio 11",
+    "description": "soy el Accesorio 11 description",
+    "image": "http://drive.google.com/uc?export=view&id=14yupZ-KJAwnqkILgomI0QpUJiFoumIj7"
+  },
+  {
+    "id": 12,
+    "name": "Accesorio 12",
+    "description": "soy el Accesorio 12 description",
+    "image": "http://drive.google.com/uc?export=view&id=1WPkQnPUOK8jsNgKFAvA-3GUa6s4S_gp_"
+  },
+  {
+    "id": 13,
+    "name": "Accesorio 13",
+    "description": "soy el Accesorio 13 description",
+    "image": "http://drive.google.com/uc?export=view&id=1YdVDwRRQw95Da_-sapsBl6_f9qy4VHEq"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Peluquería 1",
+    "description": "Esta es la descripción genérica para el Peluquería 1 donde se mostrará información más detallada",
+    "image": "http://drive.google.com/uc?export=view&id=1knv6N13Z5OCyL9b9RUzGBM4sza1dLS6J"
+  },
+  {
+    "id": 2,
+    "name": "Peluquería 2",
+    "description": "soy el Peluquería 2 description",
+    "image": "http://drive.google.com/uc?export=view&id=1RrNejVqre28UKs6R-Svfa56NJoVd9tZV"
+  },
+  {
+    "id": 3,
+    "name": "Peluquería 3",
+    "description": "soy el Peluquería 3 description",
+    "image": "http://drive.google.com/uc?export=view&id=14yupZ-KJAwnqkILgomI0QpUJiFoumIj7"
+  },
+  {
+    "id": 4,
+    "name": "Peluquería 4",
+    "description": "soy el Peluquería 4 description",
+    "image": "http://drive.google.com/uc?export=view&id=1WPkQnPUOK8jsNgKFAvA-3GUa6s4S_gp_"
+  },
+  {
+    "id": 5,
+    "name": "Peluquería 5",
+    "description": "soy el Peluquería 5 description",
+    "image": "http://drive.google.com/uc?export=view&id=1YdVDwRRQw95Da_-sapsBl6_f9qy4VHEq"
+  },
+  {
+    "id": 6,
+    "name": "Peluquería 6",
+    "description": "Peluquería 6 description gen + detalles",
+    "image": "http://drive.google.com/uc?export=view&id=17vT5xVtJJCleR82agjMtlFhZiJ1U3nTg"
+  },
+  {
+    "id": 7,
+    "name": "Peluquería 7",
+    "description": "soy el Peluquería 7 description",
+    "image": "http://drive.google.com/uc?export=view&id=1RrNejVqre28UKs6R-Svfa56NJoVd9tZV"
+  },
+  {
+    "id": 8,
+    "name": "Peluquería 8",
+    "description": "soy el Peluquería 8 description",
+    "image": "http://drive.google.com/uc?export=view&id=14yupZ-KJAwnqkILgomI0QpUJiFoumIj7"
+  },
+  {
+    "id": 9,
+    "name": "Peluquería 9",
+    "description": "soy el Peluquería 9 description",
+    "image": "http://drive.google.com/uc?export=view&id=1WPkQnPUOK8jsNgKFAvA-3GUa6s4S_gp_"
+  },
+  {
+    "id": 10,
+    "name": "Peluquería 10",
+    "description": "soy el Peluquería 10 description",
+    "image": "http://drive.google.com/uc?export=view&id=1YdVDwRRQw95Da_-sapsBl6_f9qy4VHEq"
+  },
+  {
+    "id": 11,
+    "name": "Peluquería 11",
+    "description": "soy el Peluquería 11 description",
+    "image": "http://drive.google.com/uc?export=view&id=14yupZ-KJAwnqkILgomI0QpUJiFoumIj7"
+  },
+  {
+    "id": 12,
+    "name": "Peluquería 12",
+    "description": "soy el Peluquería 12 description",
+    "image": "http://drive.google.com/uc?export=view&id=1WPkQnPUOK8jsNgKFAvA-3GUa6s4S_gp_"
+  },
+  {
+    "id": 13,
+    "name": "Peluquería 13",
+    "description": "soy el Peluquería 13 description",
+    "image": "http://drive.google.com/uc?export=view&id=1YdVDwRRQw95Da_-sapsBl6_f9qy4VHEq"
+  }
+]
