@@ -1,13 +1,15 @@
 import React from "react";
-import correas from "../assets/img/A1.png";
-import juguetes from "../assets/img/A2.png";
-import cepillos from "../assets/img/A3.png";
-import tazas from "../assets/img/A4.png";
-import otros from "../assets/img/A5.png";
+import vitaminas from "../assets/img/R1-F3.png";
+import antiinflamatorios from "../assets/img/R2-F5.png";
+import sueros from "../assets/img/R3.png";
+import desparasitantes from "../assets/img/R4-F1.png";
+import antihistaminicos from "../assets/img/R5.png";
+import antibioticos from "../assets/img/R6-F4.png";
+import variados from "../assets/img/R7-F7.png";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
-export const Accesorios = () => {
+export const FarmaciaMayores = () => {
   const responsive = {
     superLargeDesktop: {
       breakpoint: { max: 4000, min: 3000 },
@@ -27,7 +29,8 @@ export const Accesorios = () => {
     },
   };
   return (
-    <section className="product" id="accesorios">
+    <section className="product" id="farmacia">
+      <br />
       <br />
       <br />
       <br />
@@ -43,7 +46,7 @@ export const Accesorios = () => {
         <div className="row">
           <div className="col-12">
             <div className="product-bx wow zoomIn">
-              <h2>Accesorios</h2>
+              <h2>Farmacia para especies mayores</h2>
               <br />
               <br />
               <Carousel
@@ -53,42 +56,52 @@ export const Accesorios = () => {
                 className="owl-carousel owl-theme product-slider"
               >
                 <div className="item">
-                  <a href="/a1">
-                    <img src={correas} alt="" />
+                  <a href="/r1">
+                    <img src={vitaminas} alt="" />
                   </a>
-                  <h5>Correas, pecheras y más</h5>
+                  <h5>Vitaminas</h5>
                 </div>
                 <div className="item">
-                  <a href="/a2">
-                    <img src={juguetes} alt="" />
+                  <a href="/r2">
+                    <img src={antiinflamatorios} alt="" />
                   </a>
-                  <h5>Juguetes</h5>
+                  <h5>Antiinflamatorios</h5>
                 </div>
                 <div className="item">
-                  <a href="/a3">
-                    <img src={cepillos} alt="" />
+                  <a href="/r3">
+                    <img src={sueros} alt="" />
                   </a>
-                  <h5>Cepillos y cuidados</h5>
+                  <h5>Sueros</h5>
                 </div>
                 <div className="item">
-                  <a href="/a4">
-                    <img src={tazas} alt="" />
+                  <a href="/r4">
+                    <img src={desparasitantes} alt="" />
                   </a>
-                  <h5>Comederos y bebederos</h5>
+                  <h5>Desparasitantes</h5>
                 </div>
                 <div className="item">
-                  <a href="/a5">
-                    <img src={otros} alt="" />
+                  <a href="/r5">
+                    <img src={antihistaminicos} alt="" />
                   </a>
-                  <h5>Otros</h5>
+                  <h5>Antihistaminicos</h5>
+                </div>
+                <div className="item">
+                  <a href="/r6">
+                    <img src={antibioticos} alt="" />
+                  </a>
+                  <h5>Antibioticos</h5>
+                </div>
+                <div className="item">
+                  <a href="/r7">
+                    <img src={variados} alt="" />
+                  </a>
+                  <h5>Variados</h5>
                 </div>
               </Carousel>
             </div>
           </div>
         </div>
       </div>
-      <br />
-      <br />
     </section>
   );
 };

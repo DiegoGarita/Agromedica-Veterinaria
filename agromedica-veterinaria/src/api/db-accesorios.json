@@ -1,80 +1,122 @@
 [
   {
     "id": 1,
-    "name": "Accesorio 1",
-    "description": "Esta es la descripción genérica para el accesorio 1 donde se mostrará información más detallada",
-    "image": "http://drive.google.com/uc?export=view&id=1knv6N13Z5OCyL9b9RUzGBM4sza1dLS6J"
+    "name": "Cadena de metal",
+    "description": "Galvanizada (Thur). #20, #25, #30, #35, #40",
+    "image": "http://drive.google.com/uc?export=view&id=1KeIo6RnG1R1wuja1WoTSQMINaMzQ0Rgy"
   },
   {
     "id": 2,
-    "name": "Accesorio 2",
-    "description": "soy el Accesorio 2 description",
-    "image": "http://drive.google.com/uc?export=view&id=1RrNejVqre28UKs6R-Svfa56NJoVd9tZV"
+    "name": "Cadena de metal",
+    "description": "Lujo (Thur). #20, #25, #30",
+    "image": "http://drive.google.com/uc?export=view&id=1XzvMDrZ0P6fj5K-CFA3HRmCTcv2FJk1J"
   },
   {
     "id": 3,
-    "name": "Accesorio 3",
-    "description": "soy el Accesorio 3 description",
-    "image": "http://drive.google.com/uc?export=view&id=14yupZ-KJAwnqkILgomI0QpUJiFoumIj7"
+    "name": "Collar de metal",
+    "description": "Ahorcador (Thur). #16, #18, #20, #22, #30",
+    "image": "http://drive.google.com/uc?export=view&id=10xSptrph8EqE5zvFCgBvP4YCK7gryQSi"
   },
   {
     "id": 4,
-    "name": "Accesorio 4",
-    "description": "soy el Accesorio 4 description",
-    "image": "http://drive.google.com/uc?export=view&id=1WPkQnPUOK8jsNgKFAvA-3GUa6s4S_gp_"
+    "name": "Correa de nylon",
+    "description": "Impresión (Thur). #1, #2, #3",
+    "image": "http://drive.google.com/uc?export=view&id=1wbcvERCrJW54P9nWxJGwxLeDzoJj0aIy"
   },
   {
     "id": 5,
-    "name": "Accesorio 5",
-    "description": "soy el Accesorio 5 description",
-    "image": "http://drive.google.com/uc?export=view&id=1YdVDwRRQw95Da_-sapsBl6_f9qy4VHEq"
+    "name": "Collar de nylon",
+    "description": "Impresión (Thur). #0, #1, #2, #3, #4, #5, #6, #7",
+    "image": "http://drive.google.com/uc?export=view&id=1aN71CShgiJjtUAEYffr5TxZrDxZgXA9b"
   },
   {
     "id": 6,
-    "name": "Accesorio 6",
-    "description": "Accesorio 6 description gen + detalles",
-    "image": "http://drive.google.com/uc?export=view&id=17vT5xVtJJCleR82agjMtlFhZiJ1U3nTg"
+    "name": "Collar de cuero",
+    "description": "Redonda corta (Thur).",
+    "image": "http://drive.google.com/uc?export=view&id=14_XSTRNMmUUlS69jOosD8mZLNrHo9-7A"
   },
   {
     "id": 7,
-    "name": "Accesorio 7",
-    "description": "soy el Accesorio 7 description",
-    "image": "http://drive.google.com/uc?export=view&id=1RrNejVqre28UKs6R-Svfa56NJoVd9tZV"
+    "name": "Correa de cuero",
+    "description": "Plana, sencilla de Cuero. #0, #1,  #2, #3, #4, #5, #6",
+    "image": "http://drive.google.com/uc?export=view&id=1EFqVu5UMhT4bM6USWEJv6z5vWMXVOQ_I"
   },
   {
     "id": 8,
-    "name": "Accesorio 8",
-    "description": "soy el Accesorio 8 description",
-    "image": "http://drive.google.com/uc?export=view&id=14yupZ-KJAwnqkILgomI0QpUJiFoumIj7"
+    "name": "Pechera de nylon",
+    "description": "Impresión (Thur). #1, #2, #3, #5, #6, #8, #9, #11",
+    "image": "http://drive.google.com/uc?export=view&id=1PqHwQcNzkmDEtfa-lwm1hLIp3Q8be6vx"
   },
   {
     "id": 9,
-    "name": "Accesorio 9",
-    "description": "soy el Accesorio 9 description",
-    "image": "http://drive.google.com/uc?export=view&id=1WPkQnPUOK8jsNgKFAvA-3GUa6s4S_gp_"
+    "name": "Cinturón",
+    "description": "Para vehicuo (Thur)",
+    "image": "http://drive.google.com/uc?export=view&id=1WgMEHdqH6EKt6NzqOQtrMdaXxo3Pz-2p"
   },
   {
     "id": 10,
-    "name": "Accesorio 10",
-    "description": "soy el Accesorio 10 description",
-    "image": "http://drive.google.com/uc?export=view&id=1YdVDwRRQw95Da_-sapsBl6_f9qy4VHEq"
+    "name": "Pechera de cuero",
+    "description": "Tradicional (Thur). #1,  #2, #3, #4, #5, #6",
+    "image": "http://drive.google.com/uc?export=view&id=1w2t0APaJxvV62ay_znb-JBoawO6FdwPu"
   },
   {
     "id": 11,
-    "name": "Accesorio 11",
-    "description": "soy el Accesorio 11 description",
-    "image": "http://drive.google.com/uc?export=view&id=14yupZ-KJAwnqkILgomI0QpUJiFoumIj7"
+    "name": "Cadena de metal",
+    "description": "Galvanizada (Thur). #20, #25, #30, #35, #40",
+    "image": "http://drive.google.com/uc?export=view&id=1KeIo6RnG1R1wuja1WoTSQMINaMzQ0Rgy"
   },
   {
     "id": 12,
-    "name": "Accesorio 12",
-    "description": "soy el Accesorio 12 description",
-    "image": "http://drive.google.com/uc?export=view&id=1WPkQnPUOK8jsNgKFAvA-3GUa6s4S_gp_"
+    "name": "Cadena de metal",
+    "description": "Lujo (Thur). #20, #25, #30",
+    "image": "http://drive.google.com/uc?export=view&id=1XzvMDrZ0P6fj5K-CFA3HRmCTcv2FJk1J"
   },
   {
     "id": 13,
-    "name": "Accesorio 13",
-    "description": "soy el Accesorio 13 description",
-    "image": "http://drive.google.com/uc?export=view&id=1YdVDwRRQw95Da_-sapsBl6_f9qy4VHEq"
+    "name": "Collar de metal",
+    "description": "Ahorcador (Thur). #16, #18, #20, #22, #30",
+    "image": "http://drive.google.com/uc?export=view&id=10xSptrph8EqE5zvFCgBvP4YCK7gryQSi"
+  },
+  {
+    "id": 14,
+    "name": "Correa de nylon",
+    "description": "Impresión (Thur). #1, #2, #3",
+    "image": "http://drive.google.com/uc?export=view&id=1wbcvERCrJW54P9nWxJGwxLeDzoJj0aIy"
+  },
+  {
+    "id": 15,
+    "name": "Collar de nylon",
+    "description": "Impresión (Thur). #0, #1, #2, #3, #4, #5, #6, #7",
+    "image": "http://drive.google.com/uc?export=view&id=1aN71CShgiJjtUAEYffr5TxZrDxZgXA9b"
+  },
+  {
+    "id": 16,
+    "name": "Collar de cuero",
+    "description": "Redonda corta (Thur).",
+    "image": "http://drive.google.com/uc?export=view&id=14_XSTRNMmUUlS69jOosD8mZLNrHo9-7A"
+  },
+  {
+    "id": 17,
+    "name": "Correa de cuero",
+    "description": "Plana, sencilla de Cuero. #0, #1,  #2, #3, #4, #5, #6",
+    "image": "http://drive.google.com/uc?export=view&id=1EFqVu5UMhT4bM6USWEJv6z5vWMXVOQ_I"
+  },
+  {
+    "id": 18,
+    "name": "Pechera de nylon",
+    "description": "Impresión (Thur). #1, #2, #3, #5, #6, #8, #9, #11",
+    "image": "http://drive.google.com/uc?export=view&id=1PqHwQcNzkmDEtfa-lwm1hLIp3Q8be6vx"
+  },
+  {
+    "id": 19,
+    "name": "Cinturón",
+    "description": "Para vehicuo (Thur)",
+    "image": "http://drive.google.com/uc?export=view&id=1WgMEHdqH6EKt6NzqOQtrMdaXxo3Pz-2p"
+  },
+  {
+    "id": 20,
+    "name": "Pechera de cuero",
+    "description": "Tradicional (Thur). #1,  #2, #3, #4, #5, #6",
+    "image": "http://drive.google.com/uc?export=view&id=1w2t0APaJxvV62ay_znb-JBoawO6FdwPu"
   }
 ]

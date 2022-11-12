@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Instrumento para grooming",
+    "description": "",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1fvdKuJ0zB8abMCxH12Ek3R9uvynyGBL4"
+  },
+  {
+    "id": 2,
+    "name": "Cepillo doble cara",
+    "description": "",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1uf1Knxw5_hy4jdqhXKv9k94wOKoKeNZr"
+  },
+  {
+    "id": 3,
+    "name": "Cepillo para mascota",
+    "description": "",
+    "details": "Especial para cepillados",
+    "image": "http://drive.google.com/uc?export=view&id=1nYVOsbRugaFtKCDJ1V2LT8quj_7FUGa6"
+  },
+  {
+    "id": 4,
+    "name": "Removedor de pelo",
+    "description": "",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1lXCZMIXUy-fPBHBitzcNSUOSlcWOKiCW"
+  },
+  {
+    "id": 5,
+    "name": "Tijeras para uñas",
+    "description": "High Quality Products",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1U3q9I87Y4JiPxN-TDWN1YDwyBUo081k0"
+  },
+  {
+    "id": 6,
+    "name": "Pasta dental",
+    "description": "Dental Care",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1ibwkG76Yeszd5Ygbpt85eYT6ZCQ0ksf3"
+  },
+  {
+    "id": 7,
+    "name": "Pasta y cepillo dental",
+    "description": "Dental Care",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1VTXE7vKeySU0KY62YftICJRJMo26c89D"
+  },
+  {
+    "id": 8,
+    "name": "Kit de cuidados para mascota",
+    "description": "",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1lwnDTpxsYjy03xgnFE_oBZ7BYHdjePpN"
+  }
+]

@@ -1,7 +1,8 @@
 import React from "react";
 import accesorios from "../assets/img/accesorios-icon.png";
 import alimentos from "../assets/img/alimentos-icon.png";
-import farmacia from "../assets/img/farmacia-icon.png";
+import farmaciaMenores from "../assets/img/farmacia-icon.png";
+import farmaciaMayores from "../assets/img/farmacia2-icon.png";
 import lecheria from "../assets/img/lecheria-icon.png";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
@@ -61,13 +62,19 @@ export const Products = () => {
                   <h5>Alimentos</h5>
                 </div>
                 <div className="item">
-                  <a href="/Farmacia">
-                    <img src={farmacia} alt="" />
+                  <a href="/farmaciamayores">
+                    <img src={farmaciaMayores} alt="" />
                   </a>
-                  <h5>Farmacia</h5>
+                  <h5>Farmacia para especies mayores</h5>
                 </div>
                 <div className="item">
-                  <a href="/Lecheria">
+                  <a href="/farmaciamenores">
+                    <img src={farmaciaMenores} alt="" />
+                  </a>
+                  <h5>Farmacia para especies menores</h5>
+                </div>
+                <div className="item">
+                  <a href="/lecheria">
                     <img src={lecheria} alt="" />
                   </a>
                   <h5>Lechería</h5>

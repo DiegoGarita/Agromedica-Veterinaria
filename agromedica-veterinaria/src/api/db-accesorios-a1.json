@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "Cadena de metal galvanizada",
+    "description": "Thur",
+    "details": "#20, #25, #30, #35, #40",
+    "image": "http://drive.google.com/uc?export=view&id=1tSgjYj_iyVz7Oo7f6EwqbVdEdbIC7qHG"
+  },
+  {
+    "id": 2,
+    "name": "Cadena de metal lujo",
+    "description": "Thur",
+    "details": "#20, #25, #30",
+    "image": "http://drive.google.com/uc?export=view&id=1JPsSTbCKbGqD0y84tvS9o1-JH4CgZZ1s"
+  },
+  {
+    "id": 3,
+    "name": "Collar de metal ahorcador",
+    "description": "Thur",
+    "details": "#16, #18, #20, #22, #30",
+    "image": "http://drive.google.com/uc?export=view&id=15ckPvQanA7VaYDccejIL00A8pFD4tKwJ"
+  },
+  {
+    "id": 4,
+    "name": "Correa de nylon con impresión",
+    "description": "Thur",
+    "details": "#1, #2, #3",
+    "image": "http://drive.google.com/uc?export=view&id=1_-gG0pjn3_4KDUghgyTWFTAcLNZzW-Q0"
+  },
+  {
+    "id": 5,
+    "name": "Collar de nylon con impresión",
+    "description": "Thur",
+    "details": "#0, #1, #2, #3, #4, #5, #6, #7",
+    "image": "http://drive.google.com/uc?export=view&id=1ZJxawP9E8k-vHArZfNgExWQ83Gd1VwtG"
+  },
+  {
+    "id": 6,
+    "name": "Collar de cuero",
+    "description": "Thur",
+    "details": "#0, #1,  #2, #3, #4, #5, #6",
+    "image": "http://drive.google.com/uc?export=view&id=1D5MtCtbNPS3hDi3LvrYNV31jNQkVrvGN"
+  },
+  {
+    "id": 7,
+    "name": "Correa de cuero",
+    "description": "",
+    "details": "Redonda corta",
+    "image": "http://drive.google.com/uc?export=view&id=1QumF6ojnbl-bTK2TapesOoTQiKz_DrZG"
+  },
+  {
+    "id": 8,
+    "name": "Pechera de nylon con impresión",
+    "description": "Thur",
+    "details": "#1, #2, #3, #5, #6, #8, #9, #11",
+    "image": "http://drive.google.com/uc?export=view&id=1VQxsM6ZL3kYT_rDXEeogDlYQtiP0AMXN"
+  },
+  {
+    "id": 9,
+    "name": "Cinturón",
+    "description": "Thur",
+    "details": "Para vehículo",
+    "image": "http://drive.google.com/uc?export=view&id=1IbNrjdp7tZbG6uR3CsX_vNK5vvzL_KR-"
+  },
+  {
+    "id": 10,
+    "name": "Pechera de cuero tradicional",
+    "description": "Thur",
+    "details": "#1, #2, #3, #4, #5, #6",
+    "image": "http://drive.google.com/uc?export=view&id=1NNHd8CbL7ioyKlMqfjiQkZ5hbXu5psOU"
+  },
+  {
+    "id": 11,
+    "name": "Pechera de tela",
+    "description": "",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1coUs_qYFNIHo8_YOV5yXY1uBLOAnqEhV"
+  },
+  {
+    "id": 12,
+    "name": "Bozal de cuero",
+    "description": "Thur",
+    "details": "#2, #3, #4, #5",
+    "image": "http://drive.google.com/uc?export=view&id=1T1RoxbIRPcUxuovon7J2ertr4_q3uIgI"
+  },
+  {
+    "id": 13,
+    "name": "Collar con cascabel",
+    "description": "",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1kBLxpxUJ0OsBYXzfmEyGpQ_s_cBtx0SC"
+  },
+  {
+    "id": 14,
+    "name": "Collar con cascabel y lazo",
+    "description": "",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1-uxvofMfdMFSv0Yjw357Uj8x09LSpkoL"
+  },
+  {
+    "id": 15,
+    "name": "Lazos para mascota",
+    "description": "",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1Bv4TQ1NRUkjjJh0ImKL3nP5JR5NjvBpE"
+  },
+  {
+    "id": 16,
+    "name": "Paños de tela para mascota",
+    "description": "",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1NPa3yYvycnOUxXjisFCfmnHDul2YaZsG"
+  },
+  {
+    "id": 17,
+    "name": "Trajes para mascota",
+    "description": "",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1ndcAG4Al4IZc7wwGwJCno3_YTwOTCU1x"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Aumentha ATP",
+    "description": "Reconstituyente energético vitamínico y mineral",
+    "details": "100mL",
+    "image": "http://drive.google.com/uc?export=view&id=1EdYm-c55PzH6AJ86OcJ9OfPOYSc0lVb6"
+  },
+  {
+    "id": 2,
+    "name": "Modivitasan",
+    "description": "Modificador orgánico, vigorizante, reconstituyente, restaurador y optimizador",
+    "details": "100mL",
+    "image": "http://drive.google.com/uc?export=view&id=11QJE3LMrv8wUxLuUbyJnqEPxmCCmR677"
+  },
+  {
+    "id": 3,
+    "name": "Hematofos B12",
+    "description": "Potente reconstruyente estimulante multivitaminado",
+    "details": "100mL",
+    "image": "http://drive.google.com/uc?export=view&id=1szfwAjWRomkny8zrOJ3WjDcd7C6aDiWE"
+  },
+  {
+    "id": 4,
+    "name": "Catofos B9+B12",
+    "description": "Reconstituyente estimulante multivitaminado adicionado con fósforo",
+    "details": "50mL",
+    "image": "http://drive.google.com/uc?export=view&id=1Tp2Ll0Ti4iuApB9_C1ib53U6BKpxlpbu"
+  },
+  {
+    "id": 5,
+    "name": "Complemil 500",
+    "description": "Complejo de vitaminas B12-B1-B6. Antianémico",
+    "details": "50mL y 100mL",
+    "image": "http://drive.google.com/uc?export=view&id=1IaN3yuR9I8_iR8HYU9Z5jN2PQYEbpVKU"
+  },
+  {
+    "id": 6,
+    "name": "Caloi-NF",
+    "description": "Recalcificante vitamínico antianémico",
+    "details": "50mL y 100mL",
+    "image": "http://drive.google.com/uc?export=view&id=12RHSZViNzr2XZv8x278wtfLKWQmhurO9"
+  },
+  {
+    "id": 7,
+    "name": "Complejo B",
+    "description": "Multivitamínico",
+    "details": "100mL",
+    "image": "http://drive.google.com/uc?export=view&id=1HKopOQsb10bh7eU1Uhl7rPa5amSz5Wdc"
+  },
+  {
+    "id": 8,
+    "name": "Catosal con vitamina B12",
+    "description": "Estimulante metabólico",
+    "details": "50mL y 100mL",
+    "image": "http://drive.google.com/uc?export=view&id=1KQwfgZwEKPa9iHqUeKHZ1vR98zNn6Ss0"
+  },
+  {
+    "id": 9,
+    "name": "Multifort plus",
+    "description": "Estimulante del desarrollo muscular",
+    "details": "100mL y 250mL",
+    "image": "http://drive.google.com/uc?export=view&id=1eMTGN05LHr6P-OFRXnzxS6Up2pyzJMWP"
+  }
+]

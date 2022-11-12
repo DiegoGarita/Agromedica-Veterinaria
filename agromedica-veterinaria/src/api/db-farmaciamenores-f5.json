@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Artrin Plus",
+    "description": "Antiinflamatorio - Analgésico - Condoprotector.",
+    "details": "18 comprimidos palatables",
+    "image": "http://drive.google.com/uc?export=view&id=17o0YyypQPxnb1DP889yeZadtlg2zjDDd"
+  },
+  {
+    "id": 2,
+    "name": "Meloxic",
+    "description": "Antiinflamatorio - analgésico - antipirético",
+    "details": "10mL",
+    "image": "http://drive.google.com/uc?export=view&id=1lUiA_3LkwCALY2fbE1eRvyYxTYGRLoKY"
+  },
+  {
+    "id": 3,
+    "name": "Meloxic",
+    "description": "Antiinflamatorio - analgésico",
+    "details": "10 tabletas",
+    "image": "http://drive.google.com/uc?export=view&id=1Wo5idZvpXZ00sd3jzsjMqpYdPRhwcTHk"
+  },
+  {
+    "id": 4,
+    "name": "Rimadyl",
+    "description": "Carprofeno",
+    "details": "Tabletas masticables (20g y 100mg)",
+    "image": "http://drive.google.com/uc?export=view&id=1qEwJiAhl38fhOTJ5WCsvrtV8VjHeJD0d"
+  },
+  {
+    "id": 5,
+    "name": "Carprodyl 25",
+    "description": "Carprofeno para perros con problemas locomotores",
+    "details": "40 tabletas",
+    "image": "http://drive.google.com/uc?export=view&id=1BMHbdonOqzyMaVb8Z1kPmmFo71xOQkfA"
+  }
+]

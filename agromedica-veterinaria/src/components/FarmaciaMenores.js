@@ -1,17 +1,15 @@
 import React from "react";
-import snacks from "../assets/img/C1.png";
-import purina from "../assets/img/C2.jpg";
-import diamond from "../assets/img/C3.jpg";
-import nutrisource from "../assets/img/C4.jpg";
-import balance from "../assets/img/C5.jpg";
-import superperro from "../assets/img/C6.jpg";
-import dogchow from "../assets/img/C7.jpg";
-import variado from "../assets/img/C8.png";
-import otros from "../assets/img/C9.png";
+import desparasitantes from "../assets/img/R4-F1.png";
+import shampoo from "../assets/img/F2.png";
+import vitaminas from "../assets/img/R1-F3.png";
+import antibioticos from "../assets/img/R6-F4.png";
+import antiinflamatorios from "../assets/img/R2-F5.png";
+import desinfectantes from "../assets/img/F6.png";
+import variados from "../assets/img/R7-F7.png";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
-export const Alimentos = () => {
+export const FarmaciaMenores = () => {
   const responsive = {
     superLargeDesktop: {
       breakpoint: { max: 4000, min: 3000 },
@@ -31,7 +29,7 @@ export const Alimentos = () => {
     },
   };
   return (
-    <section className="product" id="alimentos">
+    <section className="product" id="farmacia">
       <br />
       <br />
       <br />
@@ -48,7 +46,7 @@ export const Alimentos = () => {
         <div className="row">
           <div className="col-12">
             <div className="product-bx wow zoomIn">
-              <h2>Alimentos</h2>
+              <h2>Farmacia para especies menores</h2>
               <br />
               <br />
               <Carousel
@@ -58,58 +56,46 @@ export const Alimentos = () => {
                 className="owl-carousel owl-theme product-slider"
               >
                 <div className="item">
-                  <a href="/c1">
-                    <img src={snacks} alt="" />
+                  <a href="/f1">
+                    <img src={desparasitantes} alt="" />
                   </a>
-                  <h5>Snacks</h5>
+                  <h5>Desparasitantes</h5>
                 </div>
                 <div className="item">
-                  <a href="/c2">
-                    <img src={purina} alt="" />
+                  <a href="/f2">
+                    <img src={shampoo} alt="" />
                   </a>
-                  <h5>Purina</h5>
+                  <h5>Shampoo y limpieza</h5>
                 </div>
                 <div className="item">
-                  <a href="/c3">
-                    <img src={diamond} alt="" />
+                  <a href="/f3">
+                    <img src={vitaminas} alt="" />
                   </a>
-                  <h5>Diamond</h5>
+                  <h5>Vitaminas</h5>
                 </div>
                 <div className="item">
-                  <a href="/c4">
-                    <img src={nutrisource} alt="" />
+                  <a href="/f4">
+                    <img src={antibioticos} alt="" />
                   </a>
-                  <h5>Nutrisource</h5>
+                  <h5>Antibioticos</h5>
                 </div>
                 <div className="item">
-                  <a href="/c5">
-                    <img src={balance} alt="" />
+                  <a href="/f5">
+                    <img src={antiinflamatorios} alt="" />
                   </a>
-                  <h5>Balance</h5>
+                  <h5>Antiinflamatorios</h5>
                 </div>
                 <div className="item">
-                  <a href="/c6">
-                    <img src={superperro} alt="" />
+                  <a href="/f6">
+                    <img src={desinfectantes} alt="" />
                   </a>
-                  <h5>Super Perro</h5>
+                  <h5>Desinfectantes</h5>
                 </div>
                 <div className="item">
-                  <a href="/c7">
-                    <img src={dogchow} alt="" />
+                  <a href="/f7">
+                    <img src={variados} alt="" />
                   </a>
-                  <h5>Dog Chow</h5>
-                </div>
-                <div className="item">
-                  <a href="/c8">
-                    <img src={variado} alt="" />
-                  </a>
-                  <h5>Variado</h5>
-                </div>
-                <div className="item">
-                  <a href="/c9">
-                    <img src={otros} alt="" />
-                  </a>
-                  <h5>Otras especies</h5>
+                  <h5>Variados</h5>
                 </div>
               </Carousel>
             </div>

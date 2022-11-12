@@ -1,9 +1,9 @@
 import React, { useEffect } from "react";
 import { useParams, useLocation } from "react-router-dom";
-import data from "../api/db-alimentos.json";
+import data from "../api/db-farmaciamayores-r1.json";
 import styled from "styled-components";
 
-export const Alimento = () => {
+export const FarmaciaMayoresElementsr1 = () => {
   const { pathname } = useLocation();
   useEffect(() => {
     window.scrollTo(0, 0);

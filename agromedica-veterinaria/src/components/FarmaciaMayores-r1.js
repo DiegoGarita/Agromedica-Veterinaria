@@ -1,9 +1,9 @@
 import React from "react";
-import data from "../api/db-farmacia.json";
+import data from "../api/db-farmaciamayores-r1.json";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 
-export const Farmacia = () => {
+export const FarmaciaMayoresr1 = () => {
   return (
     <section className="product" id="farmacia">
       <br />
@@ -22,7 +22,7 @@ export const Farmacia = () => {
         <div className="row">
           <div className="col-12">
             <div className="product-bx wow zoomIn">
-              <h2>Farmacia</h2>
+              <h2>Vitaminas</h2>
               <br />
               <br />
               <Grid>
@@ -30,7 +30,7 @@ export const Farmacia = () => {
                   return (
                     <GridItem key={datas.id}>
                       <Card key={datas.id}>
-                        <Link to={"/farmacia/" + datas.id}>
+                        <Link to={"/farmaciamayores-r1/" + datas.id}>
                           <img src={datas.image} alt={datas.image} />
                         </Link>
                         <h3>{datas.name}</h3>
@@ -61,8 +61,8 @@ const GridItem = styled.div`
 
 const Card = styled.div`
   img {
-    width: 300px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     padding: 5%;
     border-radius: 15%;
   }

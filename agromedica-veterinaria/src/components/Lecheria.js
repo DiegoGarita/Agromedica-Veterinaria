@@ -1,9 +1,29 @@
 import React from "react";
-import data from "../api/db-lecheria.json";
-import styled from "styled-components";
-import { Link } from "react-router-dom";
+import prendas from "../assets/img/G1.png";
+import maquinaria from "../assets/img/G2.png";
+import variados from "../assets/img/G3.png";
+import Carousel from "react-multi-carousel";
+import "react-multi-carousel/lib/styles.css";
 
 export const Lecheria = () => {
+  const responsive = {
+    superLargeDesktop: {
+      breakpoint: { max: 4000, min: 3000 },
+      items: 5,
+    },
+    desktop: {
+      breakpoint: { max: 3000, min: 1024 },
+      items: 3,
+    },
+    tablet: {
+      breakpoint: { max: 1024, min: 464 },
+      items: 2,
+    },
+    mobile: {
+      breakpoint: { max: 464, min: 0 },
+      items: 1,
+    },
+  };
   return (
     <section className="product" id="lecheria">
       <br />
@@ -25,21 +45,31 @@ export const Lecheria = () => {
               <h2>Lechería</h2>
               <br />
               <br />
-              <Grid>
-                {data.map((datas) => {
-                  return (
-                    <GridItem key={datas.id}>
-                      <Card key={datas.id}>
-                        <Link to={"/lecheria/" + datas.id}>
-                          <img src={datas.image} alt={datas.image} />
-                        </Link>
-                        <h3>{datas.name}</h3>
-                        <br />
-                      </Card>
-                    </GridItem>
-                  );
-                })}
-              </Grid>
+              <Carousel
+                responsive={responsive}
+                infinite={true}
+                autoPlay={true}
+                className="owl-carousel owl-theme product-slider"
+              >
+                <div className="item">
+                  <a href="/g1">
+                    <img src={prendas} alt="" />
+                  </a>
+                  <h5>Prendas</h5>
+                </div>
+                <div className="item">
+                  <a href="/g2">
+                    <img src={maquinaria} alt="" />
+                  </a>
+                  <h5>Maquinaria lechería</h5>
+                </div>
+                <div className="item">
+                  <a href="/g3">
+                    <img src={variados} alt="" />
+                  </a>
+                  <h5>Variados</h5>
+                </div>
+              </Carousel>
             </div>
           </div>
         </div>
@@ -47,32 +77,3 @@ export const Lecheria = () => {
     </section>
   );
 };
-const Grid = styled.div`
-  display: flex;
-  flex-wrap: wrap;
-  margin-left: 5%;
-  margin-right: 5%;
-`;
-
-const GridItem = styled.div`
-  justify-content: baseline;
-  margin: auto;
-`;
-
-const Card = styled.div`
-  img {
-    width: 300px;
-    height: 200px;
-    padding: 5%;
-    border-radius: 15%;
-  }
-  a {
-    text-decoration: none;
-  }
-  h3 {
-    text-align: center;
-    padding: 1rem;
-    display: block;
-    justify-content: center;
-  }
-`;

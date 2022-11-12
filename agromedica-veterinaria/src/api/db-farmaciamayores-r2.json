@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Analvet",
+    "description": "Analgésico, antipirético, antiespasmódico y antiinflamatorio no esteroide",
+    "details": "100mL",
+    "image": "http://drive.google.com/uc?export=view&id=1-O582Z8SqiAxfTpL_O12DN5Z6UopdnRk"
+  },
+  {
+    "id": 2,
+    "name": "Megludyne",
+    "description": "Antiinflamatorio, analgésico y antipirético no esteroidal",
+    "details": "100mL",
+    "image": "http://drive.google.com/uc?export=view&id=1NyBB9Tkdkl-9gMTmPXasK8opYLDC6ujR"
+  },
+  {
+    "id": 3,
+    "name": "Ankofen",
+    "description": "Antiinflamatorio, analgésico, antipirético",
+    "details": "50mL y 100mL",
+    "image": "http://drive.google.com/uc?export=view&id=17YlI85yIjZwlaV_UN9aTDd1iLsW3ngXr"
+  },
+  {
+    "id": 4,
+    "name": "Tolfén L.A. 8%",
+    "description": "Antiinflamatorio no esteróide, único de larga acción",
+    "details": "20mL, 50mL y 100mL",
+    "image": "http://drive.google.com/uc?export=view&id=1Jhg-gPssObdaYW6SwOtRLZ8NDHTqMbNQ"
+  },
+  {
+    "id": 5,
+    "name": "Meglumina de Flunixin",
+    "description": "Antiinflamatorio, analgésico y antipirético no esteroide",
+    "details": "10mL y 50mL",
+    "image": "http://drive.google.com/uc?export=view&id=1p29zw9A73ffsLOBcuLYnM4nauwi7QM8c"
+  },
+  {
+    "id": 6,
+    "name": "Overxicam",
+    "description": "Antiinflamatorio no esteróide",
+    "details": "50mL",
+    "image": "http://drive.google.com/uc?export=view&id=1M1qHEFWuiVptkNSjAV4fpAbgptgbHonp"
+  },
+  {
+    "id": 7,
+    "name": "Dexametasona",
+    "description": "Antiinflamatorio esteroideo",
+    "details": "50mL",
+    "image": "http://drive.google.com/uc?export=view&id=1XZocWSueZUWg1QNp4Dxipp4FD7FVX1kS"
+  },
+  {
+    "id": 8,
+    "name": "Dexametasona",
+    "description": "2mg/ml solución",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1VM0z1uj1XnE9u65QIDRB57Wxbn1mVCjY"
+  }
+]

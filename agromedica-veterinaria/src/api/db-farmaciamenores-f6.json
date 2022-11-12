@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Sol gel",
+    "description": "Alcohol desinfectante. Elimina virus, bacterias y microorganismos",
+    "details": "240mL",
+    "image": "http://drive.google.com/uc?export=view&id=1N8RC4PD_6F0b2S9cmx_tF2pDaaSknt_e"
+  },
+  {
+    "id": 2,
+    "name": "Clorhexadina Spray",
+    "description": "Antiseptico desinfectante",
+    "details": "120mL",
+    "image": "http://drive.google.com/uc?export=view&id=1WuipNmkvUt7l_ZLkkAev1DXHLMvjV8Mw"
+  },
+  {
+    "id": 3,
+    "name": "Neo-sept",
+    "description": "Aerosol. Antiinfeccioso - cicatrizante - dermatológico",
+    "details": "30g",
+    "image": "http://drive.google.com/uc?export=view&id=1ZCHubNVdnWD28MOHLKcT29Ig9f2H84yg"
+  },
+  {
+    "id": 4,
+    "name": "Sanivet Plus",
+    "description": "Crema antimicótica, antibacteriana, antiinflamatoria, antialérgica y cicatrizante",
+    "details": "Tubo x 40g",
+    "image": "http://drive.google.com/uc?export=view&id=1MNkV8GKSvxQnalx72ac7f-cvTC9NkOve"
+  }
+]

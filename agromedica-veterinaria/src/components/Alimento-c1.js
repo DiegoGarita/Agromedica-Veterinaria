@@ -1,9 +1,9 @@
 import React, { useEffect } from "react";
 import { useParams, useLocation } from "react-router-dom";
-import data from "../api/db-accesorios.json";
+import data from "../api/db-alimentos-c1.json";
 import styled from "styled-components";
 
-export const Accesorio = () => {
+export const Alimentoc1 = () => {
   const { pathname } = useLocation();
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -54,6 +54,7 @@ export const Accesorio = () => {
                     <h2>{data[params.id - 1].name}</h2>
                     <br />
                     <p>{data[params.id - 1].description}</p>
+                    <p>{data[params.id - 1].details}</p>
                   </Card>
                 </GridItem>
               </Grid>

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Dextrovitamin",
+    "description": "Hepatoprotector - rehidratante - energizante",
+    "details": "500mL",
+    "image": "http://drive.google.com/uc?export=view&id=1uyGm4tg4BsMCPXZZHedRxJqal9aUf9pP"
+  },
+  {
+    "id": 2,
+    "name": "Dextrosa 50%",
+    "description": "Solución energética",
+    "details": "500mL",
+    "image": "http://drive.google.com/uc?export=view&id=1zCrzDhr_9JH5seeYLsQi3595xZL-teOL"
+  },
+  {
+    "id": 3,
+    "name": "C-M-22",
+    "description": "Calcificador inyectable",
+    "details": "500mL",
+    "image": "http://drive.google.com/uc?export=view&id=1q2UVDxxuZ0UyNpzRiuEiywhBZY8HjbAY"
+  },
+  {
+    "id": 4,
+    "name": "Dextromin-B",
+    "description": "Aminoácidos vitaminas electrolitos dextrosa",
+    "details": "500mL",
+    "image": "http://drive.google.com/uc?export=view&id=1U1S4Mz3qjDfKRMaAYF5-wBd3Lhl42thC"
+  },
+  {
+    "id": 5,
+    "name": "Aminoplex Light",
+    "description": "Reconstituyente proteínico - Electrolitico",
+    "details": "500mL",
+    "image": "http://drive.google.com/uc?export=view&id=1afCf55kV43aOVHCbsMmgvmGuEyLffMSS"
+  }
+]

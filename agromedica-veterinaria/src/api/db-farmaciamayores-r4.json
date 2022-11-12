@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "COCCI-1 al 5%",
+    "description": "Anticoccidio de amplio espectro",
+    "details": "30mL",
+    "image": "http://drive.google.com/uc?export=view&id=1xjoqsN2apFu8MfNoifOL4YDxiZhZp8gy"
+  },
+  {
+    "id": 2,
+    "name": "Endoral equino",
+    "description": "Antiparasitario interno para equinos - Pasta oral",
+    "details": "27,5g",
+    "image": "http://drive.google.com/uc?export=view&id=1K7PXqwbVJf3nr3txWQhv2OfHlYccLFVS"
+  },
+  {
+    "id": 3,
+    "name": "Ivermectina Gamma L.A. 1%",
+    "description": "Endoparasiticida y ectoparasiticida de larga acción",
+    "details": "10mL",
+    "image": "http://drive.google.com/uc?export=view&id=1AV69q7GZLFswre4tYiEF3c_gDVAznffd"
+  },
+  {
+    "id": 4,
+    "name": "Virbamec L.A.",
+    "description": "Endectocida de larga acción",
+    "details": "50mL y 200mL",
+    "image": "http://drive.google.com/uc?export=view&id=1jhA6DdCz3PVy5ZElrGOy3FaXbfbUozSU"
+  },
+  {
+    "id": 5,
+    "name": "Doramec L.A.",
+    "description": "Antiparasitario interno y externo",
+    "details": "100mL",
+    "image": "http://drive.google.com/uc?export=view&id=1puuDvXu6EID9Ize33uX8Zd0l4SNSp5So"
+  },
+  {
+    "id": 6,
+    "name": "Dectomax",
+    "description": "Solución inyectable al 1%",
+    "details": "50mL",
+    "image": "http://drive.google.com/uc?export=view&id=1KbAlRJeW8A7wR5Jo0UW_aK6El0NDG0-X"
+  },
+  {
+    "id": 7,
+    "name": "Albencob 25",
+    "description": "Antihelmintico",
+    "details": "100mL",
+    "image": "http://drive.google.com/uc?export=view&id=1syvbgDXEBfykOB7R2fYpi-7EPFjL9hte"
+  },
+  {
+    "id": 8,
+    "name": "Fenacur",
+    "description": "Antiparasitario interno",
+    "details": "100mL",
+    "image": "http://drive.google.com/uc?export=view&id=1I8mrr2D2kM6xwGemb1euKi7FdPBiKUd4"
+  }
+]

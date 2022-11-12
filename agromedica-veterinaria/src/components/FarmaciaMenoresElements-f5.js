@@ -1,9 +1,9 @@
 import React, { useEffect } from "react";
 import { useParams, useLocation } from "react-router-dom";
-import data from "../api/db-lecheria.json";
+import data from "../api/db-farmaciamenores-f5.json";
 import styled from "styled-components";
 
-export const LecheriaElements = () => {
+export const FarmaciaMenoresElementsf5 = () => {
   const { pathname } = useLocation();
   useEffect(() => {
     window.scrollTo(0, 0);

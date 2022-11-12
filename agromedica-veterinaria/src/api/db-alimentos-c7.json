@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Dog Chow",
+    "description": "Raza grande",
+    "details": "25kg - Adulto",
+    "image": "http://drive.google.com/uc?export=view&id=13UipBOQyoqTsRWkE5epyMOzNukHUBjZs"
+  },
+  {
+    "id": 2,
+    "name": "Dog Chow",
+    "description": "Raza grande",
+    "details": "25kg - Cachorro",
+    "image": "http://drive.google.com/uc?export=view&id=1fI5SG5P0fkBvIuMsqLOcP_6EexkF5rvS"
+  },
+  {
+    "id": 3,
+    "name": "Dog Chow",
+    "description": "Raza pequeña",
+    "details": "20kg - Adulto",
+    "image": "http://drive.google.com/uc?export=view&id=1wwd2XBvC6CyMUTgFiVhfHK9Eh47fs_Sy"
+  },
+  {
+    "id": 4,
+    "name": "Dog Chow",
+    "description": "Raza pequeña",
+    "details": "20kg - Cachorro",
+    "image": "http://drive.google.com/uc?export=view&id=1SicYwcnQ7AWbHaAaIYTvWCpBUf8ZpylL"
+  }
+]
