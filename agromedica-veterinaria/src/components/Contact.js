@@ -29,22 +29,22 @@ export const Contact = () => {
             <br />
             <h3>Horario: </h3>
             <br />
-            <Button variant="success">Lunes: 08:00 - 18:00</Button>
+            <Button variant="success">Lunes: 08:00a.m. - 6:00p.m.</Button>
             <br />
             <br />
-            <Button variant="success">Martes: 08:00 - 18:00</Button>
+            <Button variant="success">Martes: 08:00a.m. - 6:00p.m.</Button>
             <br />
             <br />
-            <Button variant="success">Miércoles: 08:00 - 18:00</Button>
+            <Button variant="success">Miércoles: 08:00a.m. - 6:00p.m.</Button>
             <br />
             <br />
-            <Button variant="success">Jueves: 08:00 - 18:00</Button>
+            <Button variant="success">Jueves: 08:00a.m. - 6:00p.m.</Button>
             <br />
             <br />
-            <Button variant="success">Viernes: 08:00 - 18:00</Button>
+            <Button variant="success">Viernes: 08:00a.m. - 6:00p.m.</Button>
             <br />
             <br />
-            <Button variant="success">Sábado: 08:00 - 17:30</Button>
+            <Button variant="success">Sábado: 08:00a.m. - 5:00p.m.</Button>
             <br />
             <br />
             <hr />

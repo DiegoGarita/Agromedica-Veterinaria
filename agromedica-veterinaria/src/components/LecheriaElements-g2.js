@@ -1,10 +1,11 @@
 import React, { useEffect } from "react";
 import { useParams, useLocation } from "react-router-dom";
-import data from "../api/db-lecheria.json";
 import styled from "styled-components";
+import data from "../api/db-lecheria-g2.json";
 
 export const LecheriaElementsg2 = () => {
   const { pathname } = useLocation();
+
   useEffect(() => {
     window.scrollTo(0, 0);
   }, [pathname]);
@@ -54,6 +55,7 @@ export const LecheriaElementsg2 = () => {
                     <h2>{data[params.id - 1].name}</h2>
                     <br />
                     <p>{data[params.id - 1].description}</p>
+                    <p>{data[params.id - 1].details}</p>
                   </Card>
                 </GridItem>
               </Grid>
@@ -62,23 +64,21 @@ export const LecheriaElementsg2 = () => {
         </div>
       </div>
       <br />
-
       <br />
     </section>
   );
 };
+
 const Grid = styled.div`
   display: flex;
   flex-wrap: wrap;
   margin-left: 5%;
   margin-right: 5%;
 `;
-
 const GridItem = styled.div`
   justify-content: baseline;
   margin: auto;
 `;
-
 const Card = styled.div`
   img {
     width: 95%;

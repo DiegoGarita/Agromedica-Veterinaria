@@ -1,7 +1,7 @@
 import React from "react";
-import data from "../api/db-lecheria.json";
-import styled from "styled-components";
 import { Link } from "react-router-dom";
+import styled from "styled-components";
+import data from "../api/db-lecheria-g3.json";
 
 export const Lecheriag3 = () => {
   return (
@@ -47,24 +47,22 @@ export const Lecheriag3 = () => {
     </section>
   );
 };
+
 const Grid = styled.div`
   display: flex;
   flex-wrap: wrap;
   margin-left: 5%;
   margin-right: 5%;
 `;
-
 const GridItem = styled.div`
   justify-content: baseline;
   margin: auto;
 `;
-
 const Card = styled.div`
   img {
-    width: 300px;
-    height: 200px;
+    width: 320px;
+    height: 180px;
     padding: 5%;
-    border-radius: 15%;
   }
   a {
     text-decoration: none;

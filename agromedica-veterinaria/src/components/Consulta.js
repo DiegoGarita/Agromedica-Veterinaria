@@ -1,6 +1,6 @@
 import React from "react";
-import data from "../api/db-consulta.json";
 import styled from "styled-components";
+import data from "../api/db-consulta.json";
 
 export const Consulta = () => {
   return (

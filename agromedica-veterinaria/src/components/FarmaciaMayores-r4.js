@@ -1,7 +1,7 @@
 import React from "react";
-import data from "../api/db-farmaciamayores-r4.json";
-import styled from "styled-components";
 import { Link } from "react-router-dom";
+import styled from "styled-components";
+import data from "../api/db-farmaciamayores-r4.json";
 
 export const FarmaciaMayoresr4 = () => {
   return (
@@ -47,22 +47,21 @@ export const FarmaciaMayoresr4 = () => {
     </section>
   );
 };
+
 const Grid = styled.div`
   display: flex;
   flex-wrap: wrap;
   margin-left: 5%;
   margin-right: 5%;
 `;
-
 const GridItem = styled.div`
   justify-content: baseline;
   margin: auto;
 `;
-
 const Card = styled.div`
   img {
     width: 250px;
-    height: 250px;
+    height: 330px;
     padding: 5%;
     border-radius: 15%;
   }

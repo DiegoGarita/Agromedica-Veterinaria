@@ -1,10 +1,11 @@
 import React, { useEffect } from "react";
 import { useParams, useLocation } from "react-router-dom";
-import data from "../api/db-accesorios-a3.json";
 import styled from "styled-components";
+import data from "../api/db-accesorios-a3.json";
 
 export const Accesorioa3 = () => {
   const { pathname } = useLocation();
+
   useEffect(() => {
     window.scrollTo(0, 0);
   }, [pathname]);
@@ -63,23 +64,21 @@ export const Accesorioa3 = () => {
         </div>
       </div>
       <br />
-
       <br />
     </section>
   );
 };
+
 const Grid = styled.div`
   display: flex;
   flex-wrap: wrap;
   margin-left: 5%;
   margin-right: 5%;
 `;
-
 const GridItem = styled.div`
   justify-content: baseline;
   margin: auto;
 `;
-
 const Card = styled.div`
   img {
     width: 95%;

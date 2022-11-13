@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Guantes de látex no estériles",
+    "description": "Bajo en polvo. Descartables para examen médico ambidiestros",
+    "details": "100 guantes. Grande",
+    "image": "http://drive.google.com/uc?export=view&id=1K1FaCeNtJmrzLr5zVXiuo8inYbhe2o23"
+  },
+  {
+    "id": 2,
+    "name": "Guantes de látex no estériles",
+    "description": "Bajo en polvo. Descartables para examen médico ambidiestros",
+    "details": "100 guantes. Mediano",
+    "image": "http://drive.google.com/uc?export=view&id=1VSHyi8Xq_zgLSIg_Du3Kl37EB8uL5387"
+  },
+  {
+    "id": 3,
+    "name": "Botas para ganadería.",
+    "description": "Vflex",
+    "details": "Tallas: de la 37 a la 44",
+    "image": "http://drive.google.com/uc?export=view&id=1funLItArc8SZvCqCyVEimxTCu7LNhfte"
+  },
+  {
+    "id": 4,
+    "name": "Capas",
+    "description": "Artesanías centenario.",
+    "details": "S, M y L",
+    "image": "http://drive.google.com/uc?export=view&id=1lU2TIjONhL-JYtQgYci1_H8_7X1K18jj"
+  }
+]

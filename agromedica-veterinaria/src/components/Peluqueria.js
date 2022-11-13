@@ -1,6 +1,6 @@
 import React from "react";
-import data from "../api/db-peluqueria.json";
 import styled from "styled-components";
+import data from "../api/db-peluqueria.json";
 
 export const Peluqueria = () => {
   return (
@@ -47,7 +47,6 @@ export const Peluqueria = () => {
                           </div>
                         </div>
                       </div>
-
                       <br />
                       <hr />
                       <br />
@@ -62,6 +61,7 @@ export const Peluqueria = () => {
     </section>
   );
 };
+
 const Grid = styled.div`
   display: grid;
   flex-wrap: wrap;

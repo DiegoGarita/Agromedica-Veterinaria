@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Botellas spray",
+    "description": "Botellas para desinfectar",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1SA3z3Y3RWxVJWUK58WPpYLPjPEu3mOEk"
+  },
+  {
+    "id": 2,
+    "name": "Clavos para caballo",
+    "description": "Standard",
+    "details": "100 piezas. Tamaño ASV-5",
+    "image": "http://drive.google.com/uc?export=view&id=1parNH8KVIGkLLFEW5PSTD5FcsCFmehyO"
+  },
+  {
+    "id": 3,
+    "name": "Corona - Clavos de herrar",
+    "description": "Ajuste perfecto",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1krjZCrkS15whYoDm2Bz-YeFEcj73g8q1"
+  },
+  {
+    "id": 4,
+    "name": "Herraduras para caballo.",
+    "description": "Variedad en tamaños",
+    "details": "1P, 2P, 3P, 1T, 3T, 0 Lisa, 2 Lisa, 3 Lisa",
+    "image": "http://drive.google.com/uc?export=view&id=10b3YXZZRR-sVK-Kr0L1WBp7yeBeMiAY1"
+  },
+  {
+    "id": 5,
+    "name": "Hauptner Herberholz",
+    "description": "Sensitive quality",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1t5ZfXU_Kfo9ljKJ8u-EdNVVJDQSgGpuw"
+  },
+  {
+    "id": 6,
+    "name": "Caloxvit",
+    "description": "Suplemento mineral y vitamínico para animales productivos.",
+    "details": "1kg",
+    "image": "http://drive.google.com/uc?export=view&id=1rHGW5w8AIDaEgNAmdzSGEusT8y05JVzB"
+  },
+  {
+    "id": 7,
+    "name": "Farm O San - Reviva",
+    "description": "Calcio en bovinos",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1JbaSlhQBqxFZfl9CeVnaIEutvhPsNdeO"
+  },
+  {
+    "id": 8,
+    "name": "Suplemento mineral",
+    "description": "Eficiencia en nutrición.",
+    "details": "20kg",
+    "image": "http://drive.google.com/uc?export=view&id=1UzA1SlvbrwiXJuh48jG2M3czBau7j_9y"
+  },
+  {
+    "id": 9,
+    "name": "Sprayfo - Calf Milk Remplazador. Rojo",
+    "description": "",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1Oi_59ar5lBowhae6nR5Q2cW81HPNYwpU"
+  },
+  {
+    "id": 10,
+    "name": "Celmanax",
+    "description": "",
+    "details": "",
+    "image": "http://drive.google.com/uc?export=view&id=1eQTzSiBSGTMvYEIPE4kjYgx3sZpUlWco"
+  }
+]

@@ -1,7 +1,7 @@
 import React from "react";
-import data from "../api/db-alimentos-c4.json";
-import styled from "styled-components";
 import { Link } from "react-router-dom";
+import styled from "styled-components";
+import data from "../api/db-alimentos-c4.json";
 
 export const Alimentosc4 = () => {
   return (
@@ -54,18 +54,15 @@ const Grid = styled.div`
   margin-left: 5%;
   margin-right: 5%;
 `;
-
 const GridItem = styled.div`
   justify-content: baseline;
   margin: auto;
 `;
-
 const Card = styled.div`
   img {
-    width: 300px;
-    height: 200px;
+    width: 320px;
+    height: 180px;
     padding: 5%;
-    border-radius: 15%;
   }
   a {
     text-decoration: none;
