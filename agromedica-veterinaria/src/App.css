@@ -312,6 +312,21 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 0 0 50px 0;
   position: relative;
 }
+
+.product-bx-original {
+  background: #151515;
+  border-radius: 64px;
+  text-align: center;
+  padding: 60px 50px;
+  margin-top: -60px;
+}
+.product-bx-alt {
+  background: #151515;
+  border-radius: 64px;
+  text-align: center;
+  padding: 60px 50px;
+  margin-top: -60px;
+}
 .product-bx {
   background: #151515;
   border-radius: 64px;
@@ -320,6 +335,13 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-top: -60px;
 }
 .product-bx2 {
+  background: #093b0a;
+  border-radius: 64px;
+  text-align: center;
+  padding: 60px 50px;
+  margin-top: -60px;
+}
+.product-bx2-vert {
   background: #093b0a;
   border-radius: 64px;
   text-align: center;
@@ -441,8 +463,53 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .image__description {
   font-size: 1em;
   margin-top: 0.25em;
+  text-align: left;
+}
+.image__description2 {
+  font-size: 1em;
+  margin-top: 0.25em;
 }
 .image_services {
   position: relative;
   width: 500px;
+}
+@media all and (max-width: 500px) {
+  .image_services {
+    position: relative;
+    width: 230px;
+  }
+  .image {
+    position: relative;
+    width: 130px;
+  }
+  .product-bx {
+    background: #151515;
+    border-radius: 64px;
+    text-align: center;
+    padding: 40px 180px;
+    margin-top: 30px;
+  }
+  .product-bx2 {
+    background: #093b0a;
+    border-radius: 64px;
+    text-align: center;
+    padding: 55px 50px;
+    margin-top: 240px;
+    margin-left: -180px;
+  }
+  .product-bx-alt {
+    background: #151515;
+    border-radius: 64px;
+    text-align: center;
+    padding: 60px 0px;
+    margin-top: -60px;
+  }
+  .product-bx2-vert {
+    background: #093b0a;
+    border-radius: 64px;
+    text-align: center;
+    padding: 60px 50px;
+    margin-top: 400px;
+    margin-left: -185px;
+  }
 }

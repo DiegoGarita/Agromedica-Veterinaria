@@ -20,7 +20,7 @@ export const Consulta = () => {
       <div className="container">
         <div className="row">
           <div className="col-12">
-            <div className="product-bx wow zoomIn">
+            <div className="product-bx-original wow zoomIn">
               <h2>Consulta</h2>
               <br />
               <br />
@@ -38,9 +38,7 @@ export const Consulta = () => {
                               alt={datas.image}
                             />
                             <div className="image__overlay">
-                              <div className="image__title">{datas.name}</div>
-                              <br />
-                              <div className="image__description">
+                              <div className="image__description2">
                                 {datas.description}
                               </div>
                             </div>

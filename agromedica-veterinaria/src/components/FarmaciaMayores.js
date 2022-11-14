@@ -45,7 +45,7 @@ export const FarmaciaMayores = () => {
       <div className="container">
         <div className="row">
           <div className="col-12">
-            <div className="product-bx wow zoomIn">
+            <div className="product-bx-original wow zoomIn">
               <h2>Farmacia para especies mayores</h2>
               <br />
               <br />

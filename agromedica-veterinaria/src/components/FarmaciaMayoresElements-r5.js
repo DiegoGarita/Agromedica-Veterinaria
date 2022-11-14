@@ -48,7 +48,7 @@ export const FarmaciaMayoresElementsr5 = () => {
             </div>
           </div>
           <div className="col-6">
-            <div className="product-bx2 wow zoomIn">
+            <div className="product-bx2-vert wow zoomIn">
               <Grid>
                 <GridItem>
                   <Card>
@@ -93,5 +93,11 @@ const Card = styled.div`
     padding: 1rem;
     display: block;
     justify-content: center;
+  }
+  @media (max-width: 500px) {
+    img {
+      width: 200px;
+      margin-left: -110px;
+    }
   }
 `;

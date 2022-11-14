@@ -20,7 +20,7 @@ export const Accesoriosa5 = () => {
       <div className="container">
         <div className="row">
           <div className="col-12">
-            <div className="product-bx wow zoomIn">
+            <div className="product-bx-alt wow zoomIn">
               <h2>Otros</h2>
               <br />
               <br />

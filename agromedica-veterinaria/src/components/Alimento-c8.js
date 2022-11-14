@@ -94,4 +94,10 @@ const Card = styled.div`
     display: block;
     justify-content: center;
   }
+  @media (max-width: 500px) {
+    img {
+      width: 200px;
+      margin-left: -110px;
+    }
+  }
 `;
