@@ -31,17 +31,21 @@ export const Peluqueria = () => {
                     <GridItem key={datas.id}>
                       <div className="row">
                         <div className="col-12">
-                          <div className="image">
+                          <div className="image_services">
                             <img
                               className="image__img"
                               src={datas.image}
                               alt={datas.image}
                             />
                             <div className="image__overlay">
-                              <div className="image__title">{datas.name}</div>
-                              <br />
                               <div className="image__description">
-                                {datas.description}
+                                <ol>
+                                  <li>{datas.description1}</li>
+                                  <li>{datas.description2}</li>
+                                  <li>{datas.description3}</li>
+                                  <li>{datas.description4}</li>
+                                  <li>{datas.description5}</li>
+                                </ol>
                               </div>
                             </div>
                           </div>

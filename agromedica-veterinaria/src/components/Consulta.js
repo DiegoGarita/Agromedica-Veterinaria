@@ -31,7 +31,7 @@ export const Consulta = () => {
                     <GridItem key={datas.id}>
                       <div className="row">
                         <div className="col-12">
-                          <div className="image">
+                          <div className="image_services">
                             <img
                               className="image__img"
                               src={datas.image}

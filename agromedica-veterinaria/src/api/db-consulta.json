@@ -1,50 +1,26 @@
 [
   {
     "id": 1,
-    "name": "Consulta 1",
-    "description": "Esta es la descripción genérica para el Consulta 1 donde se mostrará información más detallada",
-    "image": "http://drive.google.com/uc?export=view&id=1knv6N13Z5OCyL9b9RUzGBM4sza1dLS6J"
+    "name": "Consulta general",
+    "description": "La consulta general consiste en un proceso centrado en la relación veterinario-mascota que busca brindar apoyo a las necesidades de salud-enfermedad, según corresponda.",
+    "image": "http://drive.google.com/uc?export=view&id=1y8TDfY1yf-KI4TpdzBdzoIRZE8sKy8LE"
   },
   {
     "id": 2,
-    "name": "Consulta 2",
-    "description": "soy el Consulta 2 description",
-    "image": "http://drive.google.com/uc?export=view&id=1RrNejVqre28UKs6R-Svfa56NJoVd9tZV"
+    "name": "Ultrasonido",
+    "description": "El ultrasonido consiste en el uso de ondas sonoras de alta frecuencia para crear imágenes de los órganos y estructuras dentro del cuerpo de la mascota a tratar.",
+    "image": "http://drive.google.com/uc?export=view&id=1abjzkx-0S54wzl85TOrAVccsEvu8iFSc"
   },
   {
     "id": 3,
-    "name": "Consulta 3",
-    "description": "soy el Consulta 3 description",
-    "image": "http://drive.google.com/uc?export=view&id=14yupZ-KJAwnqkILgomI0QpUJiFoumIj7"
+    "name": "Ortopedia",
+    "description": "La ortopedia consiste en el tratamiento del sistema músculo-esquelético de la mascota. Incluye huesos, articulaciones, ligamentos, tendones y músculos.",
+    "image": "http://drive.google.com/uc?export=view&id=1nbameyWw_dQNUDO-A_hNnwe7Z0I65F6-"
   },
   {
     "id": 4,
-    "name": "Consulta 4",
-    "description": "soy el Consulta 4 description",
-    "image": "http://drive.google.com/uc?export=view&id=1WPkQnPUOK8jsNgKFAvA-3GUa6s4S_gp_"
-  },
-  {
-    "id": 5,
-    "name": "Consulta 5",
-    "description": "soy el Consulta 5 description",
-    "image": "http://drive.google.com/uc?export=view&id=1YdVDwRRQw95Da_-sapsBl6_f9qy4VHEq"
-  },
-  {
-    "id": 6,
-    "name": "Consulta 6",
-    "description": "Consulta 6 description gen + detalles",
-    "image": "http://drive.google.com/uc?export=view&id=17vT5xVtJJCleR82agjMtlFhZiJ1U3nTg"
-  },
-  {
-    "id": 7,
-    "name": "Consulta 7",
-    "description": "soy el Consulta 7 description",
-    "image": "http://drive.google.com/uc?export=view&id=1RrNejVqre28UKs6R-Svfa56NJoVd9tZV"
-  },
-  {
-    "id": 8,
-    "name": "Consulta 8",
-    "description": "soy el Consulta 8 description",
-    "image": "http://drive.google.com/uc?export=view&id=14yupZ-KJAwnqkILgomI0QpUJiFoumIj7"
+    "name": "Cirugía general",
+    "description": "La cirugía general consiste en el procedimiento para reparar una parte del cuerpo de la mascota en cuestión. También puede ser utilizado para determinar si hay una enfermedad.",
+    "image": "http://drive.google.com/uc?export=view&id=1gbJErUsYhbSz_dEMyC-1EpiQOQ3uG2yp"
   }
 ]

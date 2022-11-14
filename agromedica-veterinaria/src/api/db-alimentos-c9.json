@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "name": "Semillas para perico de amor",
-    "description": "",
+    "name": "Semillas",
+    "description": "Semillas para perico de amor.",
     "details": "1000g",
     "image": "http://drive.google.com/uc?export=view&id=1cAOmcnFdoBjnIyG0ACLj5A4hnoBCcHrA"
   },
   {
     "id": 2,
     "name": "Viruta",
-    "description": "Para hamster",
+    "description": "Viruta para hámster.",
     "details": "500g",
     "image": "http://drive.google.com/uc?export=view&id=1YYVCNf_PM_MFFqE9vlAExEZ0izi1LyJ_"
   },
@@ -30,22 +30,22 @@
   {
     "id": 5,
     "name": "Perky Pet",
-    "description": "Néctar instantáneo concentrado",
+    "description": "Néctar instantáneo concentrado para colibrí.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1NH4Me02WWZIa6Zov0ErZb-2UU1AXki9v"
   },
   {
     "id": 6,
     "name": "Factor Amarillo",
-    "description": "Birdland Premium",
-    "details": "",
+    "description": "Birdland Premium.",
+    "details": "Pastón de mantenimiento. Alimento para canarios",
     "image": "http://drive.google.com/uc?export=view&id=1Q_EWR16dEDlJZAmo_63386bJLFdZQMJK"
   },
   {
     "id": 7,
     "name": "Factor Rojo",
-    "description": "Birdland Premium",
-    "details": "",
+    "description": "Birdland Premium.",
+    "details": "Pastón de mantenimiento. Alimento para canarios",
     "image": "http://drive.google.com/uc?export=view&id=1Kq0D_wrq1Wo71L2ecHKDcr6lqUc2gUrI"
   }
 ]

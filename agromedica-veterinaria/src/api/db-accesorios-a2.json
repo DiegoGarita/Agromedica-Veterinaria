@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "name": "Juguete de cuerda",
-    "description": "",
+    "name": "Cuerda",
+    "description": "Juguete de cuerda.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1tW97sURv66ONPl-VjNC9mzi_WtkPKenl"
   },
   {
     "id": 2,
-    "name": "Juguete de hueso",
-    "description": "",
+    "name": "Hueso",
+    "description": "Juguete de hueso.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1CnriGMLv4Vgdpz-zpFYvSyl1r6QOgWC9"
   },
@@ -23,20 +23,20 @@
   {
     "id": 4,
     "name": "Pollo",
-    "description": "",
+    "description": "Juguete de pollo.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1WFX0CqUzjE2VOYqhIz_999AuE1OgTRTj"
   },
   {
     "id": 5,
     "name": "Ratón",
-    "description": "",
+    "description": "Juguete de ratón.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=12BnuMo20jJNplgz7_V2BogOn7mvTemv7"
   },
   {
     "id": 6,
-    "name": "Juguete para gato",
+    "name": "Juguete para felino",
     "description": "",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1VNQWw-3cCJHGnF86DJlxa7URheW0qcfN"

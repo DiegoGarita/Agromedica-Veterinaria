@@ -1,85 +1,85 @@
 [
   {
     "id": 1,
-    "name": "Lactol - Kitten milk",
-    "description": "Ayuda al crecimiento y desarrollo",
+    "name": "Leche para felino.",
+    "description": "Lactol. Ayuda al crecimiento y desarrollo.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=18wCFiaVnGCecNtVqSQFIJm6YISCJ2P0r"
   },
   {
     "id": 2,
-    "name": "Vamfin",
-    "description": "Ungüento vampiricida",
+    "name": "Ungüento vampiricida",
+    "description": "Vamfin. Para el control de vampiros o murciélagos hematófagos, evitando las lesiones por mordeduras, anemia por pérdida de sangre y la transmisión de rabia paralítica.",
     "details": "120g",
     "image": "http://drive.google.com/uc?export=view&id=1uwVLtuSN5YgwKoKawUhED3olR6Lxq3tz"
   },
   {
     "id": 3,
     "name": "Avandal Difas",
-    "description": "Para infecciones respiratorias que cursen con producción de moco",
+    "description": "Para infecciones respiratorias que cursen con producción de moco.",
     "details": "10g",
     "image": "http://drive.google.com/uc?export=view&id=1eBXwX6hCyd3js6AIWxIeqEtBZdstnEuv"
   },
   {
     "id": 4,
     "name": "Loción Scabiei Laika",
-    "description": "Antisárnico - Tópico",
+    "description": "Antisárnico. Tópico.",
     "details": "50mL",
     "image": "http://drive.google.com/uc?export=view&id=1ZWoX1wHAS7rGB0CzovwGKB68kgupclu1"
   },
   {
     "id": 5,
     "name": "Meprazolic",
-    "description": "Antisecretor gástrico inhibidor de la bomba de protones",
+    "description": "Antisecretor gástrico inhibidor de la bomba de protones.",
     "details": "25 tabletas",
     "image": "http://drive.google.com/uc?export=view&id=12UWPM-QtwKdrKTGDF4WVVKSbvmfr-fte"
   },
   {
     "id": 6,
     "name": "Anxocare",
-    "description": "Coadyuvante natural para el control de nerviosismo, hiperactividad, excitación, agresividad, miedo y estrés",
+    "description": "Coadyuvante natural para el control de nerviosismo, hiperactividad, excitación, agresividad, miedo y estrés.",
     "details": "Tabletas 60 unidades",
     "image": "http://drive.google.com/uc?export=view&id=1aM3BDYuW0Hka8KSO55U3-vTA39cBQMEz"
   },
   {
     "id": 7,
     "name": "Gentacyn oftálmico",
-    "description": "Antibiótico aminoglucósido",
+    "description": "Antibiótico aminoglucósido.",
     "details": "10mL",
     "image": "http://drive.google.com/uc?export=view&id=1eZCBwg-IoYq1AYUyrmraFz0xed1xRYz3"
   },
   {
     "id": 8,
     "name": "Ciprovet",
-    "description": "Cicatrizante antibacteriano. Para perros, gatos y caballos",
+    "description": "Cicatrizante antibacteriano. Para caninos, felinos y equinos.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1jXwKDeWIylY2HcEhT_0FHhrHsB8ziUKm"
   },
   {
     "id": 9,
     "name": "Tears Lágrimas",
-    "description": "Sustituto natural de las lágrimas - Cicatrizante antiinflamatorio. Para perros y gatos",
+    "description": "Sustituto natural de las lágrimas - Cicatrizante antiinflamatorio. Para caninos y felinos.",
     "details": "8mL",
     "image": "http://drive.google.com/uc?export=view&id=1knnrSbMZiJk3w-o7oE7IQiwuOADtXAGk"
   },
   {
     "id": 10,
     "name": "Ocubiotic",
-    "description": " Colirio antibiótico. Para perros, gatos y caballos",
+    "description": " Colirio antibiótico. Para caninos, felinos y equinos.",
     "details": "250mL",
     "image": "http://drive.google.com/uc?export=view&id=1xbTjpjB_7IlXCo7VyeuWyaaijkoxU3se"
   },
   {
     "id": 11,
     "name": "Tobramax",
-    "description": "Antibiótico y antiinflamatorio",
+    "description": "Antibiótico y antiinflamatorio.",
     "details": "5mL",
     "image": "http://drive.google.com/uc?export=view&id=1VP6g0WZpr10eNjnaKSGfm-3jYVaq5dXt"
   },
   {
     "id": 12,
     "name": "Tobrapet",
-    "description": "Tobramicina y dexametasona",
+    "description": "Tobramicina y dexametasona. Solución oftálmica.",
     "details": "10mL",
     "image": "http://drive.google.com/uc?export=view&id=13cIvJTV4VKhH3R1jJK4WRv5MaZgC2Bcu"
   },
@@ -93,28 +93,28 @@
   {
     "id": 14,
     "name": "Doxiciclina",
-    "description": "Antibiótico de amplio espectro",
+    "description": "Antibiótico de amplio espectro.",
     "details": "10 tabletas",
     "image": "http://drive.google.com/uc?export=view&id=1qBqs7EZRP6Ix9vVSXPoB7hYQG0vNXe3a"
   },
   {
     "id": 15,
-    "name": "Calox - Prednisona",
-    "description": "Antiinflamatorio, antialérgico y corticoide sintético",
+    "name": "Prednisona",
+    "description": "Calox. Antiinflamatorio, antialérgico y corticoide sintético.",
     "details": "50mg",
     "image": "http://drive.google.com/uc?export=view&id=1321oVDsNljybAei6xjhmnVRPV2NoiFgZ"
   },
   {
     "id": 16,
     "name": "Ketoprofeno",
-    "description": "Antiinflamatorio no esteroide. Para caninos y felinos",
+    "description": "Antiinflamatorio no esteroide. Para caninos y felinos.",
     "details": "5mg",
     "image": "http://drive.google.com/uc?export=view&id=12t8bjBxeZq96ipXsyiF4qTqSA25yoJR2"
   },
   {
     "id": 17,
     "name": "Ketoprofeno",
-    "description": "Antiinflamatorio no esteroide. Para caninos y felinos",
+    "description": "Antiinflamatorio no esteroide. Para caninos y felinos.",
     "details": "20mg",
     "image": "http://drive.google.com/uc?export=view&id=1BWNo91Wg8sgTYrFWJ4OkznVatETMeUY7"
   },
@@ -128,21 +128,21 @@
   {
     "id": 19,
     "name": "Prednisolona",
-    "description": "Para caninos y felinos",
-    "details": "1 blister de 10 comprimidos",
+    "description": "Para caninos y felinos.",
+    "details": "1 blíster de 10 comprimidos",
     "image": "http://drive.google.com/uc?export=view&id=1RGGipABtZSL75Mkpkivah36uiCQquR2Q"
   },
   {
     "id": 20,
-    "name": "Mikomax - Ketoconazol",
-    "description": "Antimicótico de amplio espectro.",
+    "name": "Ketoconazol",
+    "description": "Mikomax. Antimicótico de amplio espectro.",
     "details": "10 tabletas (200g)",
     "image": "http://drive.google.com/uc?export=view&id=18wxCATcG4ZLoapEHE0QGPqZcSWDCLUn4"
   },
   {
     "id": 21,
     "name": "Flagisyn",
-    "description": "Antiprotozoario y antimicrobiano",
+    "description": "Antiprotozoario y antimicrobiano.",
     "details": "30 tabletas",
     "image": "http://drive.google.com/uc?export=view&id=1M8MWsQhiU1N5bELT0-pYt00u7Dy_Zdw_"
   },
@@ -155,50 +155,50 @@
   },
   {
     "id": 23,
-    "name": "Calox - Alergodex",
-    "description": "Antialérgico y antiinflamatorio. Para caninos y felinos",
+    "name": "Alergodex",
+    "description": "Calox. Antialérgico y antiinflamatorio. Para caninos y felinos.",
     "details": "100 tabletas(0.5mg)",
     "image": "http://drive.google.com/uc?export=view&id=1b7jU7cdIDQstRkYO5ESPFj4RkXwKEuKi"
   },
   {
     "id": 24,
-    "name": "Calox - Loratadina",
-    "description": "Antialérgico no esteroideo",
+    "name": "Loratadina",
+    "description": "Calox. Antialérgico no esteroideo.",
     "details": "100 tabletas(10mg)",
     "image": "http://drive.google.com/uc?export=view&id=1UO-JZJ4vH5TzwZyGdOL3M14Sz9PLp2jh"
   },
   {
     "id": 25,
-    "name": "Quiettuspet - Tabletas de tilo",
-    "description": "Coadyuvante natural para el control de ansiedad y nerviosismo",
-    "details": "15 blister x 4 tabletas(20mg)",
+    "name": "Tabletas de tilo",
+    "description": "Quiettuspet. Coadyuvante natural para el control de ansiedad y nerviosismo.",
+    "details": "15 blíster x 4 tabletas(20mg)",
     "image": "http://drive.google.com/uc?export=view&id=1SECu2Q7n67KHrzVmCNjigmJCYpv3d5Gz"
   },
   {
     "id": 26,
-    "name": "Calox - Prednisona",
-    "description": "Antiinflamatorio, antialérgico y corticoide sintético",
+    "name": "Prednisona",
+    "description": "Calox. Antiinflamatorio, antialérgico y corticoide sintético.",
     "details": "100 tabletas(5mg)",
     "image": "http://drive.google.com/uc?export=view&id=1kATbravySI2Zci_g8ccPFTkNJWwUni1G"
   },
   {
     "id": 27,
     "name": "Otiflex C",
-    "description": "Antibacteriano, antimicótico y antiinflamatorio. Para caninos y felinos",
+    "description": "Antibacteriano, antimicótico y antiinflamatorio. Para caninos y felinos.",
     "details": "25mL",
     "image": "http://drive.google.com/uc?export=view&id=1HnKI3xPzqp36gI5xM9WjDLNpp9wNlrRX"
   },
   {
     "id": 28,
     "name": "Otiflex Limpiador",
-    "description": "Solución para limpieza de oídos. Para caninos y felinos",
+    "description": "Solución para limpieza de oídos. Para caninos y felinos.",
     "details": "25mL",
     "image": "http://drive.google.com/uc?export=view&id=1cY5Hy_KNbeJWgFJeDWyMELXCpWKljY7m"
   },
   {
     "id": 29,
     "name": "Dexametasona Neomicina",
-    "description": "Antiinflamatorio y antibiótico",
+    "description": "Antiinflamatorio y antibiótico.",
     "details": "5mL",
     "image": "http://drive.google.com/uc?export=view&id=1PjGhXELeylNP00AGRMak_Es2aApes86r"
   },
@@ -218,29 +218,29 @@
   },
   {
     "id": 32,
-    "name": "Dolo-vet - ótico",
-    "description": "Antibiótico bacteriostático de amplio espectro con efecto analgésico. Antiinflamatorio, antiprurítico y antifúngico.",
+    "name": "Ótico",
+    "description": "Dolo-vet. Antibiótico bacteriostático de amplio espectro con efecto analgésico. Antiinflamatorio, antiprurítico y antifúngico.",
     "details": "10mL",
     "image": "http://drive.google.com/uc?export=view&id=178M15-gchJ8qpiG8NrQqWRYaDv8YycNf"
   },
   {
     "id": 33,
     "name": "Renalof",
-    "description": "Solución oral. Para caninos y felinos",
+    "description": "Solución oral. Para caninos y felinos.",
     "details": "30mL",
     "image": "http://drive.google.com/uc?export=view&id=1a5uZpZhiDjJ7HHV_DnRHrEr29v_K-onQ"
   },
   {
     "id": 34,
-    "name": "Sinvirax - Methisoprinol",
-    "description": "Inmuno estimulante ",
+    "name": "Methisoprinol",
+    "description": "Sinvirax. Inmuno estimulante.",
     "details": "20mL",
     "image": "http://drive.google.com/uc?export=view&id=1sg-IWfLv5f6NtvzMsiYQIAxyDKPKMBat"
   },
   {
     "id": 35,
-    "name": "Enflox - Enrofloxacina",
-    "description": "Antibiótico",
+    "name": "Enrofloxacina",
+    "description": "Enflox. Antibiótico.",
     "details": "20mL",
     "image": "http://drive.google.com/uc?export=view&id=1Vx9ix1sTKynUvr9UmucwIRl1igPIE4e5"
   },
@@ -281,29 +281,29 @@
   },
   {
     "id": 41,
-    "name": "Epi-Otic Advanced",
-    "description": "Desmatología. Limpiador y antiséptico auricular con efecto queratolítico. Para caninos y felinos.",
+    "name": "Advanced",
+    "description": "Epi-Otic. Limpiador y antiséptico auricular con efecto queratolítico. Para caninos y felinos.",
     "details": "120mL",
     "image": "http://drive.google.com/uc?export=view&id=1Nn38_aX8kinG8_YmygoQ8Aidb0-97E1i"
   },
   {
     "id": 42,
-    "name": "Ankofen - Pomada",
-    "description": "Analgésico, antiflogistico y antiinflamatorio.",
+    "name": "Ankofen: Pomada",
+    "description": "Analgésico, antiflogístico y antiinflamatorio.",
     "details": "60g",
     "image": "http://drive.google.com/uc?export=view&id=1cQp86vxOv5kuIyy0CFAUUzy2rcOgmagl"
   },
   {
     "id": 43,
-    "name": "Sinvirax - Methisoprinol",
-    "description": "Antihumoral e inmunomodulador",
+    "name": "Methisoprinol",
+    "description": "Sinvirax. Antihumoral e inmunomodulador.",
     "details": "20mL y 100mL",
     "image": "http://drive.google.com/uc?export=view&id=1wBeQOqBDauuHzzRH2mBnRn0lO7rniLZ9"
   },
   {
     "id": 44,
-    "name": "Sinvirax - Methisoprinol",
-    "description": "Inmuno estimulante",
+    "name": "Methisoprinol",
+    "description": "Sinvirax. Inmuno estimulante.",
     "details": "50mL",
     "image": "http://drive.google.com/uc?export=view&id=1UfJ27hsnfQY4EvVZ9MfdphynRKqNZ4E4"
   },

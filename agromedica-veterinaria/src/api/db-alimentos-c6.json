@@ -2,22 +2,22 @@
   {
     "id": 1,
     "name": "Super Perro",
-    "description": "Raza grande",
-    "details": "30kg - Adulto",
+    "description": "Canino de raza grande.",
+    "details": "30kg - Para caninos adultos",
     "image": "http://drive.google.com/uc?export=view&id=1H8rcmM_HxDGKHP6lQfDymu8D-N_CmU68"
   },
   {
     "id": 2,
     "name": "Super Perro",
-    "description": "Raza grande",
-    "details": "30kg - Cachorro",
+    "description": "Canino de raza grande.",
+    "details": "30kg - Para caninos cachorros",
     "image": "http://drive.google.com/uc?export=view&id=1p7Ol0_lMa6qUBX-qXZtanKprse8bEUvD"
   },
   {
     "id": 3,
     "name": "Super Perro",
-    "description": "Raza pequeña",
-    "details": "30kg - Adulto",
+    "description": "Canino de raza pequeña.",
+    "details": "30kg - Para caninos adultos",
     "image": "http://drive.google.com/uc?export=view&id=1C3HZzGP5eFP5NNTVZYZ39J5wjTCb45Wx"
   }
 ]

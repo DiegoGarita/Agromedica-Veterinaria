@@ -53,6 +53,8 @@ export const Contact = () => {
               Para consulta directa puede escribirnos por Whatsapp: +506 8615
               7424
             </h6>
+            <br />
+            <h6>O para llamada directa contacta al número: +506 2536 6545</h6>
           </div>
         </Row>
       </Container>

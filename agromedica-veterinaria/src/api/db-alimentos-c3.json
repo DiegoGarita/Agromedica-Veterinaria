@@ -1,30 +1,30 @@
 [
   {
     "id": 1,
-    "name": "Diamond High Energy",
-    "description": "Para perros con actividad física",
-    "details": "#23kg - Adulto",
+    "name": "Diamond",
+    "description": "Diamond High Energy. Para caninos con mucha actividad física.",
+    "details": "#23kg - Para caninos adultos",
     "image": "http://drive.google.com/uc?export=view&id=17z94Tgofqns6nMjcL0aLR4Lm8jUw9mhg"
   },
   {
     "id": 2,
-    "name": "Diamond Maintenance",
-    "description": "Para perros sedentarios",
-    "details": "#23kg - Adulto",
+    "name": "Diamond",
+    "description": "Diamond Maintenance. Para caninos sedentarios.",
+    "details": "#23kg - Para caninos adultos",
     "image": "http://drive.google.com/uc?export=view&id=1O8KBSh1AGsyNJ9dr2X2jTkNL1Fb2fhXn"
   },
   {
     "id": 3,
-    "name": "Diamond Puppy",
-    "description": "",
-    "details": "18kg - Cachorro",
+    "name": "Diamond",
+    "description": "Diamond Puppy.",
+    "details": "18kg - Para caninos cachorros",
     "image": "http://drive.google.com/uc?export=view&id=1i-i-_35NBv7GfTGEELShEU1Ua0XOXqdx"
   },
   {
     "id": 4,
-    "name": "Diamond Maintenance Cat",
-    "description": "Para gato",
-    "details": "18kg - Adulto y cachorro",
+    "name": "Diamond",
+    "description": "Diamond Maintenance Cat. Alimento para gato.",
+    "details": "18kg - Para felinos adultos y cachorros",
     "image": "http://drive.google.com/uc?export=view&id=1Zo4oVnvKZP52dbPH9vjv0PXWLsjWK1SQ"
   }
 ]

@@ -81,8 +81,8 @@ const GridItem = styled.div`
 `;
 const Card = styled.div`
   img {
-    width: 95%;
-    height: 80%;
+    width: 70%;
+    height: 55%;
     padding: 5%;
   }
   a {

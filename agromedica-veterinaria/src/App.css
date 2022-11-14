@@ -442,3 +442,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-size: 1em;
   margin-top: 0.25em;
 }
+.image_services {
+  position: relative;
+  width: 500px;
+}

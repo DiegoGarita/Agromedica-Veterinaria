@@ -2,84 +2,84 @@
   {
     "id": 1,
     "name": "Azul de metileno",
-    "description": "Contra bacterias",
+    "description": "Contra bacterias.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1VK1AM0IYpoJPr2pg-R6lf-OB6i8fbdlL"
   },
   {
     "id": 2,
     "name": "Mr. Atom Talco",
-    "description": "Talco antipulgas",
+    "description": "Talco antipulgas.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1P8jpyI8jUICdVvYcDKzSg5ezquk0Bwdm"
   },
   {
     "id": 3,
     "name": "Mr. Atom Champú",
-    "description": "Antipulgas para perro",
+    "description": "Antipulgas para caninos.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1ulWkiZ4SpirpNEow--ES9i9OqcimI0MI"
   },
   {
     "id": 4,
     "name": "Super Perro Shampoo",
-    "description": "Fragancia duradera",
+    "description": "Fragancia duradera.",
     "details": "350mL",
     "image": "http://drive.google.com/uc?export=view&id=1PloX0Dj4oivTpm8bXaKakbI4JPv9gSoN"
   },
   {
     "id": 5,
     "name": "Super Perro Talco",
-    "description": "Fragancia duradera",
+    "description": "Fragancia duradera.",
     "details": "110g",
     "image": "http://drive.google.com/uc?export=view&id=1s9_8bkPQfeolJ-WiErpyr-Rn5-M57lk4"
   },
   {
     "id": 6,
     "name": "Pro Pet Talco",
-    "description": "Aroma manzana verde",
+    "description": "Aroma manzana verde.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1qL6Br_nK1B59rQ8UdFvxNAnqVQzSbUEj"
   },
   {
     "id": 7,
     "name": "Pro Pet Shampoo",
-    "description": "Aroma manzana verde",
+    "description": "Aroma manzana verde.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1ecW9R9eB5sjDScm85-fgpK0oy4WbtQLG"
   },
   {
     "id": 8,
     "name": "Toons Champú",
-    "description": "Para perros y gatos",
+    "description": "Para caninos y felinos.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1-3jrP5-T90hdJaytSRTQwEOrEkmZJTP-"
   },
   {
     "id": 9,
     "name": "Toons Champú galón",
-    "description": "Para perros y gatos",
+    "description": "Para caninos y felinos.",
     "details": "20mL",
     "image": "http://drive.google.com/uc?export=view&id=1Ub_jhediLD_XO56XpzqTodssMd861FKw"
   },
   {
     "id": 10,
     "name": "Vetriderm",
-    "description": "Shampoo dermatológico sólido",
+    "description": "Shampoo dermatológico sólido.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1J8YYH0_RiGOXVEzPQMcTndmXbcIkt_nG"
   },
   {
     "id": 11,
     "name": "Asuntol Jabón",
-    "description": "Elimina garrapatas, pulgas, piojos en perros",
+    "description": "Elimina garrapatas, pulgas, piojos en caninos.",
     "details": "Para todas las razas",
     "image": "http://drive.google.com/uc?export=view&id=10YbEwqWHO3UBGAxbjptF5Y4oBdnZ8eeg"
   },
   {
     "id": 12,
     "name": "Toons Colonia",
-    "description": "Para perros y gatos",
+    "description": "Para caninos y felinos.",
     "details": "120mL",
     "image": "http://drive.google.com/uc?export=view&id=1SbcC_zsDjqN1J4IwDXup7EbBTHdf20z9"
   },
@@ -93,56 +93,56 @@
   {
     "id": 14,
     "name": "Clorexivet Shampoo",
-    "description": "Infecciones de la piel. Shampoo dermatológico",
+    "description": "Infecciones de la piel. Shampoo dermatológico.",
     "details": "250mL",
     "image": "http://drive.google.com/uc?export=view&id=1BJqhbt66MuWr5IEk_h-ITEIA4FFjHzoe"
   },
   {
     "id": 15,
     "name": "Champú Antialérgico",
-    "description": "Antipruriginoso, hidratante y acondicionador",
+    "description": "Antipruriginoso, hidratante y acondicionador.",
     "details": "240mL",
     "image": "http://drive.google.com/uc?export=view&id=1SIAbzjiByXpYU_jYN872fSo15TXvpcle"
   },
   {
     "id": 16,
     "name": "Champú Blanqueador",
-    "description": "Humectante blanqueador y acondicionador",
+    "description": "Humectante blanqueador y acondicionador.",
     "details": "240mL",
     "image": "http://drive.google.com/uc?export=view&id=1lEwWkOrOVu7QariLrIeWsViUM89DQezu"
   },
   {
     "id": 17,
-    "name": "Shampoo + Acondicionador para gatos",
-    "description": "Brillo, volúmen y suavidad. Antilagrimas",
+    "name": "Shampoo para felinos",
+    "description": "Shampoo + Acondicionador para felinos. Brillo, volumen y suavidad. Antilagrimas.",
     "details": "400ml",
     "image": "http://drive.google.com/uc?export=view&id=1UIXetrlmlnyIp8dxJRqqLvgKzVdcdAO8"
   },
   {
     "id": 18,
     "name": "Shampoo pelo oscuro",
-    "description": "Para perros",
+    "description": "Para caninos.",
     "details": "400ml",
     "image": "http://drive.google.com/uc?export=view&id=1lXgFQ04GWBBWgUpGLuVdxyn9GzrTGv-d"
   },
   {
     "id": 19,
     "name": "Champú antilágrimas",
-    "description": "Cachorros",
+    "description": "Cachorros.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1wk-beThQFlQ4udaZqHJD92LHvgU0g70Z"
   },
   {
     "id": 20,
     "name": "Champú antilágrimas",
-    "description": "Variedad de tipos",
+    "description": "Variedad de tipos.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1tbvT0ITa5u7BbScGcmzX7BOiJ1_EoT3E"
   },
   {
     "id": 21,
     "name": "Shampoo Wellco",
-    "description": "Fórmula especial para caballos",
+    "description": "Fórmula especial para caballos.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1oAi3TJfHq-igqVAaLr5uZwxz4Hvj4x67"
   }

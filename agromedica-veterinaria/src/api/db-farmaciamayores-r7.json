@@ -2,28 +2,28 @@
   {
     "id": 1,
     "name": "Ciper Clor",
-    "description": "Matagusanos - Larvicida - Repelente",
-    "details": "",
+    "description": "Matagusanos, larvicida, repelente y cicatrizante antiséptico.",
+    "details": "Cipermetrina 1,4%",
     "image": "http://drive.google.com/uc?export=view&id=1S_QXJtaLbwNxQj_B01hHAzSLdTJDHlz4"
   },
   {
     "id": 2,
     "name": "Pederipra spray",
-    "description": "Clortetraciclina. Antibiótico",
+    "description": "Clortetraciclina, en aerosol tópico. Antibiótico.",
     "details": "200mL",
     "image": "http://drive.google.com/uc?export=view&id=1d42YTZoW68Wfy26aO68FtFk7k4IRFeoX"
   },
   {
     "id": 3,
     "name": "Aluspray",
-    "description": "Bandage en aérosol",
+    "description": "Bandage en aerosol.",
     "details": "210mL",
     "image": "http://drive.google.com/uc?export=view&id=1P3fTgW-JP5SqtpOtA2RZn3d3C_2ZWzGL"
   },
   {
     "id": 4,
     "name": "Hemoplex",
-    "description": "Complejo hematínico y tónico general",
+    "description": "Complejo hematínico y tónico general.",
     "details": "50mL",
     "image": "http://drive.google.com/uc?export=view&id=1FGbTEDZ5V2DGJOhp5CLGro3kXQRB9zp3"
   },
@@ -37,28 +37,28 @@
   {
     "id": 6,
     "name": "Etamsilato",
-    "description": "Hemostatico",
+    "description": "Hemostático.",
     "details": "10mL",
     "image": "http://drive.google.com/uc?export=view&id=1yGA8wbgzV7dwE78_JLvW5o21DGDQFtuD"
   },
   {
     "id": 7,
-    "name": "Etamsilato 70mg",
-    "description": "Hemostático, angioprotector, antiinflamatorio y madurador de plaquetas",
+    "name": "Etamsilato",
+    "description": "Hemostático, angioprotector, antiinflamatorio y madurador de plaquetas.",
     "details": "Caja x 10 tabletas recubiertas",
     "image": "http://drive.google.com/uc?export=view&id=1Ggqorxn9gamKchFjMu06XN0WjcD73WeB"
   },
   {
     "id": 8,
-    "name": "Oxitocina Sintética 20 U.I.",
-    "description": "",
+    "name": "Oxitocina",
+    "description": "Oxitocina Sintética 20 U.I.",
     "details": "10mL",
     "image": "http://drive.google.com/uc?export=view&id=1NSYMG1EGV40A2S8yrO3Nd3O-GjSDLH3Z"
   },
   {
     "id": 9,
     "name": "Post-Part Oxitocina",
-    "description": "Actúa sobre útero y glándula mamaria",
+    "description": "Actúa sobre útero y glándula mamaria.",
     "details": "10mL",
     "image": "http://drive.google.com/uc?export=view&id=1EP1LGL9YOM7sG8vzALRyGdNZyCNemC87"
   },
@@ -71,99 +71,99 @@
   },
   {
     "id": 11,
-    "name": "Singap Amitraz 20.8%",
-    "description": "Concentrado emulsionable",
+    "name": "Garrapaticida",
+    "description": "Singap Amitraz 20.8%. Concentrado emulsionable.",
     "details": "20mL y 120mL",
     "image": "http://drive.google.com/uc?export=view&id=1hSCFjr9ZtVhRMHV4QZsoY8mJDWbor_Wq"
   },
   {
     "id": 12,
-    "name": "Alcatraz Amitraz 20.8%",
-    "description": "Elimina garrapatas y ácaros",
+    "name": "Alcatraz",
+    "description": " Amitraz 20.8%. Elimina garrapatas y ácaros.",
     "details": "60mL",
     "image": "http://drive.google.com/uc?export=view&id=1jHYPYIUjrqgT2k1pHqC4lYWjWtkrDiSP"
   },
   {
     "id": 13,
     "name": "Parasitol 500 EC",
-    "description": "Torsalicida, Control de plagas rastreras y voladoras",
+    "description": "Torsalicida, Control de plagas rastreras y voladoras.",
     "details": "180mL",
     "image": "http://drive.google.com/uc?export=view&id=1pj40VcjsRAiPbbI4pVBgHxGUM-uQEE4U"
   },
   {
     "id": 14,
     "name": "Dermethon",
-    "description": "Mosquicida insecticida",
+    "description": "Mosquicida e insecticida.",
     "details": "20mL",
     "image": "http://drive.google.com/uc?export=view&id=1xUJvbi_TU6UuqT-66Dz8hQj0zo8oI9fT"
   },
   {
     "id": 15,
     "name": "Tintura de Yodo 7%",
-    "description": "Antiséptico",
+    "description": "Antiséptico.",
     "details": "100mL",
     "image": "http://drive.google.com/uc?export=view&id=1zD3FVexcmuyaFpFAnvTv17mX-Elmem6K"
   },
   {
     "id": 16,
     "name": "Aceite mineral",
-    "description": "Laxante - Lubricante intestinal",
+    "description": "Laxante y lubricante intestinal.",
     "details": "120mL",
     "image": "http://drive.google.com/uc?export=view&id=13OdCjrXyfIWnyWehE5YtUBtP5EyIkT-v"
   },
   {
     "id": 17,
     "name": "Calfon Energy",
-    "description": "Suplemento Mineral",
+    "description": "Suplemento mineral líquido.",
     "details": "350mL",
     "image": "http://drive.google.com/uc?export=view&id=1FFy2MwBSAGZNu7cVDiG9h1-IXyV84Cdt"
   },
   {
     "id": 18,
     "name": "Flativet",
-    "description": "Antiespumante - Antiflatulento",
+    "description": "Antiespumante y antiflatulento.",
     "details": "120mL",
     "image": "http://drive.google.com/uc?export=view&id=1_j2IhLVynX3vnDhwdclDKMT9-pRx2nyB"
   },
   {
     "id": 19,
     "name": "Calfon Fuerte",
-    "description": "Sales de calcio de 50% y fósforo orgánico",
+    "description": "Sales de calcio de 50% y fósforo orgánico.",
     "details": "100mL",
     "image": "http://drive.google.com/uc?export=view&id=1n5LL_N5cjrGPErZSIZQiSWv_8rziYj7w"
   },
   {
     "id": 20,
     "name": "Enterex",
-    "description": "Adsorvente de toxinas",
+    "description": "Adsorbente de toxinas y venenos.",
     "details": "8g",
     "image": "http://drive.google.com/uc?export=view&id=1owEdp0t4pAgL2LVtqySkpaTTCK82QLZw"
   },
   {
     "id": 21,
     "name": "Enterol",
-    "description": "Antidiarréico",
+    "description": "Antidiarreico",
     "details": "14g",
     "image": "http://drive.google.com/uc?export=view&id=1O4XnVgyXIWIedG__hWVdiTb6od5DLQWr"
   },
   {
     "id": 22,
     "name": "Parafen 6%",
-    "description": "Fenbendazol. Endoparasiticida",
+    "description": "Fenbendazol. Endoparasiticida de amplio espectro con efecto ovicida y larvicida.",
     "details": "10g",
     "image": "http://drive.google.com/uc?export=view&id=13ZG0pSjZWksXxflxaOaz4PSRxfloRzqo"
   },
   {
     "id": 23,
     "name": "Marschall M-50",
-    "description": "Pastillas de cuajo",
+    "description": "Pastillas de cuajo.",
     "details": "100 pastillas",
     "image": "http://drive.google.com/uc?export=view&id=1PxkCe3o1zdIlxmdOqFIGaonssOlDoa-w"
   },
   {
     "id": 24,
     "name": "Ferritón",
-    "description": "Hierro Dextrán",
+    "description": "Hierro Dextrán 200.",
     "details": "100mL",
     "image": "http://drive.google.com/uc?export=view&id=1UEl6TqU5_opTdnK7hnxCsPMrD9aY6yzr"
   },
@@ -177,35 +177,35 @@
   {
     "id": 26,
     "name": "Ferrodex",
-    "description": "Reconstituyente vitamínico",
+    "description": "Reconstituyente vitamínico.",
     "details": "20mL",
     "image": "http://drive.google.com/uc?export=view&id=1AEGQ4siLA8FJEgtOSHR_SQnZm65lxr0r"
   },
   {
     "id": 27,
     "name": "Farvital 18",
-    "description": "Suplemento nutricional para animales",
+    "description": "Suplemento nutricional para animales.",
     "details": "40mL",
     "image": "http://drive.google.com/uc?export=view&id=1z-N6zZSks1jlPPZLjhLjDFi9eucFnPqd"
   },
   {
     "id": 28,
     "name": "Eres inyectable",
-    "description": "Bromexina - Clorhidrato",
+    "description": "Bromexina y clorhidrato. Expectorante.",
     "details": "100mL",
     "image": "http://drive.google.com/uc?export=view&id=16PNJTtyPXNtYwgjwCM0j1LDo1rPU2NhD"
   },
   {
     "id": 29,
     "name": "Clorhidrato de Tiamina",
-    "description": "Vitamina B1",
+    "description": "Vitamina B1.",
     "details": "100mL",
     "image": "http://drive.google.com/uc?export=view&id=1IlFPjyp0HqBi0F4RIKHk6kWkFZX1K86g"
   },
   {
     "id": 30,
     "name": "Imidox 120",
-    "description": "Antiprotozoario - Quimioterapéutico",
+    "description": "Antiprotozoario, quimioterapéutico específico y hemoparasiticida.",
     "details": "100mL",
     "image": "http://drive.google.com/uc?export=view&id=1vjDvUslfpb27_TMQf0DzA-XMuDL9A04L"
   },
@@ -226,42 +226,42 @@
   {
     "id": 33,
     "name": "Aquan-Vet",
-    "description": "Triclormetiazida - Betametasona",
+    "description": "Triclormetiazida, betametasona, diurético, antiinflamatorio, tratamiento del edema de la ubre.",
     "details": "15mL y 30mL",
     "image": "http://drive.google.com/uc?export=view&id=1kVptm_0OPNGloCzTQ23EKOd9qp4jaMbM"
   },
   {
     "id": 34,
     "name": "Mixtura de Caolín con Pectina",
-    "description": "Suspensión oral",
+    "description": "Suspensión oral.",
     "details": "250mL y 500mL",
     "image": "http://drive.google.com/uc?export=view&id=1EYpceSWhg4s3Oml8Nc7PaDGneEyVF77r"
   },
   {
     "id": 35,
     "name": "Mixtura de Caolín con Pectina",
-    "description": "Suspensión oral",
+    "description": "Suspensión oral.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1jkY74CgSdwqgdfWl0O2yDLl9L70-K1HD"
   },
   {
     "id": 36,
     "name": "Neocan",
-    "description": "Para casos de diarrea y transtornos estomacales",
+    "description": "Para casos de diarrea y trastornos estomacales.",
     "details": "120mL",
     "image": "http://drive.google.com/uc?export=view&id=1hEsfnyD7UypLnkfacRjE2DSAfyX4xonc"
   },
   {
     "id": 37,
-    "name": "Pectinova Subsalicilato de busmuto",
-    "description": "Protector gastro-intestinal antidiarréico",
+    "name": "Pectinova",
+    "description": "Subsalicilato de bismuto. Protector gastro-intestinal antidiarreico.",
     "details": "120mL y 360mL",
     "image": "http://drive.google.com/uc?export=view&id=1uahDLzTPh9VxDM9-fb85CkQjgciN-XVx"
   },
   {
     "id": 38,
     "name": "Microvit",
-    "description": "Multivitamínico",
+    "description": "Multivitamínico. Premezcla vitamínica para ser utilizada en aves y cerdos.",
     "details": "15g",
     "image": "http://drive.google.com/uc?export=view&id=1DZrveSXDVF0i5M9axzVGnfMqpAFWwli8"
   },
@@ -275,126 +275,126 @@
   {
     "id": 40,
     "name": "Amprolio 20%",
-    "description": "Tratamiento de coccidiosis",
+    "description": "Tratamiento de coccidiosis.",
     "details": "20g",
     "image": "http://drive.google.com/uc?export=view&id=1EpuzYZ0vHheM-whq6c8029Xe9KqV8AU7"
   },
   {
     "id": 41,
     "name": "Panacur",
-    "description": "Desparasitante oral",
+    "description": "Desparasitante oral.",
     "details": "10.23g",
     "image": "http://drive.google.com/uc?export=view&id=18M-2q2XOKMEoKVwHtHsCFlvYuYOpX0qC"
   },
   {
     "id": 42,
     "name": "Retador 22%",
-    "description": "Fenbendazol 22% Antiparasitario",
+    "description": "Fenbendazol 22%. Antiparasitario.",
     "details": "10g",
     "image": "http://drive.google.com/uc?export=view&id=14O9kArjcCeE0rrO618f_4ClOBvLrXiF3"
   },
   {
     "id": 43,
     "name": "Calfosvit Se",
-    "description": "Minerales escenciales del proceso reproductivo",
+    "description": "Fósforo, yodo, zinc y selenio. Minerales esenciales del proceso reproductivo.",
     "details": "50mL y 250mL",
     "image": "http://drive.google.com/uc?export=view&id=1XAq52tz_rGxFkvbgTmLnkzY6Kls5NDlZ"
   },
   {
     "id": 44,
-    "name": "Quindiar",
-    "description": "Enrofloxacina 2,5%, Caolín y Pectina",
+    "name": "Quinodiar",
+    "description": "Enrofloxacina 2,5%, Caolín y Pectina.",
     "details": "60mL",
     "image": "http://drive.google.com/uc?export=view&id=1e5k90R61cQ_1ZwjJEy18cyTg3um7Jou9"
   },
   {
     "id": 45,
     "name": "Fosfosan",
-    "description": "Reconstituyente mineral en solución acuosa",
+    "description": "Reconstituyente mineral en solución acuosa.",
     "details": "100mL",
     "image": "http://drive.google.com/uc?export=view&id=1uNAAhpqyT7bNXXw1XYx1XoyDtZZFAa-6"
   },
   {
     "id": 46,
     "name": "Selectan",
-    "description": "Antibacteriano",
+    "description": "Antibacteriano.",
     "details": "100mL",
     "image": "http://drive.google.com/uc?export=view&id=1tCkallHPNhwdVrq_FpSn5YqrF3t-lMDh"
   },
   {
     "id": 47,
     "name": "Baytril 5%",
-    "description": "Antibacteriano de amplio espectro",
+    "description": "Antibacteriano de amplio espectro.",
     "details": "20mL y 100mL",
     "image": "http://drive.google.com/uc?export=view&id=1Zc--yfTJ6bz6ml6qukEIvU3AH8Ntq2b9"
   },
   {
     "id": 48,
     "name": "Lactofur",
-    "description": "Antimicrobiano inyectable",
+    "description": "Antimicrobiano inyectable a base de Ceftiofur para bovinos y porcinos.",
     "details": "100mL",
     "image": "http://drive.google.com/uc?export=view&id=1YEgbiSmwTO7h8nZIAt0drSUPx2Kg8Mu0"
   },
   {
     "id": 49,
     "name": "Glucovet",
-    "description": "Inyectable",
+    "description": "Solución inyectable vía endovenosa o subcutánea.",
     "details": "250mL",
     "image": "http://drive.google.com/uc?export=view&id=1tI59Q6hguRg75cjGG6lJvGpaJ0MtuliT"
   },
   {
     "id": 50,
-    "name": "Dibenzamidina Diaceturato Oxitetraciclina",
-    "description": "Hemoparasiticida",
+    "name": "Hemaplus",
+    "description": "Dibenzamidina Diaceturato Oxitetraciclina. Hemoparasiticida.",
     "details": "50mL",
     "image": "http://drive.google.com/uc?export=view&id=1e7KKTUl9QqObQr6HEb5yjhLmvzRNB-u-"
   },
   {
     "id": 51,
     "name": "Citius 5%",
-    "description": "Antibiótico",
+    "description": "Suspensión antibiótica inyectable lista para usarse.",
     "details": "100mL",
     "image": "http://drive.google.com/uc?export=view&id=1Stnc1_HDNTuCMez7poZ7eE7avZ7-9Wnd"
   },
   {
     "id": 52,
     "name": "Dextromin-B",
-    "description": "Aminoácidos vitaminas electrolitos dextrosa",
+    "description": "Aminoácidos, vitaminas, electrolitos y dextrosa.",
     "details": "500mL",
     "image": "http://drive.google.com/uc?export=view&id=1bQm2CKML9LwDvAkQ8_t2R00wXIkQX3uf"
   },
   {
     "id": 53,
     "name": "Bañogan",
-    "description": "Mosquicida, piojicida, garrapaticida y larvicida",
+    "description": "Mosquicida, piojicida, garrapaticida y larvicida.",
     "details": "1000mL",
     "image": "http://drive.google.com/uc?export=view&id=1kyvtkn0JYCxSFdaNLgJRF55QwxDlcecS"
   },
   {
     "id": 54,
     "name": "Ectonil",
-    "description": "Garrapaticida e insecticida",
+    "description": "Garrapaticida e insecticida de múltiple acción y efecto extendido.",
     "details": "30mL y 500mL",
     "image": "http://drive.google.com/uc?export=view&id=1NhU60gBt-mUwP-5sD_bVBAAeMuB7VBHU"
   },
   {
     "id": 55,
-    "name": "Ultravit -NF",
-    "description": "Con minerales + Metionina",
+    "name": "Ultravit - NF",
+    "description": "Con minerales + metionina. Reconstituyente energético, vitamínico y mineral.",
     "details": "100g",
     "image": "http://drive.google.com/uc?export=view&id=1ApGG3QGqCUS-yWy7_z95zMISENigUbPy"
   },
   {
     "id": 56,
     "name": "Rumi-Far",
-    "description": "Estimulante de Rumen",
+    "description": "Estimulante de rumen.",
     "details": "100g",
     "image": "http://drive.google.com/uc?export=view&id=1LsgMTr6J3Fc3Ew-uVi0bHVwAeA-JIqaJ"
   },
   {
     "id": 57,
-    "name": "Purgante Bovino",
-    "description": "",
+    "name": "Purgante bovino",
+    "description": "Para el tratamiento de ingestiones, paresia o atonía del rumen por ingestión excesiva de forrajes.",
     "details": "400g",
     "image": "http://drive.google.com/uc?export=view&id=1SXi94-WDhYp5mugq-4twPNl9bmq3A0kY"
   }

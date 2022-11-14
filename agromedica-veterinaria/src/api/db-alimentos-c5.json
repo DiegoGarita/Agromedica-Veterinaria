@@ -2,29 +2,29 @@
   {
     "id": 1,
     "name": "Balance",
-    "description": "Sabor a cordero",
-    "details": "15kg - Adulto",
+    "description": "Sabor a cordero.",
+    "details": "15kg - Para canino adulto",
     "image": "http://drive.google.com/uc?export=view&id=12ZlAkFNOrmk-rFO4S_u0YwQtgVadFdOO"
   },
   {
     "id": 2,
     "name": "Balance",
-    "description": "Skin and Coat - Cuidado de piel y pelo",
+    "description": "Skin and Coat. Cuidado de piel y pelo.",
     "details": "15kg",
     "image": "http://drive.google.com/uc?export=view&id=1iajDbHk9SHh0_WFQnKSPbw5vXofijfW9"
   },
   {
     "id": 3,
     "name": "Balance",
-    "description": "Cachorro",
+    "description": "Para canino cachorro.",
     "details": "15kg",
     "image": "http://drive.google.com/uc?export=view&id=1qjM7DVpd2FWDoUtc-39P4Kf2GDbA_w-_"
   },
   {
     "id": 4,
     "name": "Balance",
-    "description": "Sabor a pollo",
-    "details": "15kg - Adulto",
+    "description": "Sabor a pollo.",
+    "details": "15kg - Para canino adulto",
     "image": "http://drive.google.com/uc?export=view&id=1_qMFlgqdrMdgUlQKvfVqclNq88qVpL4h"
   }
 ]

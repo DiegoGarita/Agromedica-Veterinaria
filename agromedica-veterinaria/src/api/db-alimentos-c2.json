@@ -2,64 +2,64 @@
   {
     "id": 1,
     "name": "Purina Pro Plan",
-    "description": "Razas grandes",
-    "details": "3kg - Adultos y cachorros",
+    "description": "Para razas grandes.",
+    "details": "3kg - Para caninos adultos y cachorros",
     "image": "http://drive.google.com/uc?export=view&id=1hxjjv1tcCuSlfYP6Aq9fpm8Bur2sX-X6"
   },
   {
     "id": 2,
     "name": "Purina Pro Plan",
-    "description": "Razas pequeñas",
-    "details": "1kg & 3kg - Adultos y cachorros",
+    "description": "Para razas pequeñas.",
+    "details": "1kg & 3kg - Para caninos adultos y cachorros",
     "image": "http://drive.google.com/uc?export=view&id=1521hd13Y3ADMIglVIu23JhhHsC9NBSlR"
   },
   {
     "id": 3,
     "name": "Purina Pro Plan",
-    "description": "Senior Adulto",
+    "description": "Senior Adulto (+7 años).",
     "details": "1kg & 3kg",
     "image": "http://drive.google.com/uc?export=view&id=1RSoRYytxoBXcqjIWbEgEIPUCg_xj_nvN"
   },
   {
     "id": 4,
     "name": "Purina Pro Plan",
-    "description": "Piel sensible, razas grandes",
-    "details": "1kg & 3kg - Adultos(+6 años)",
+    "description": "Piel sensible. Para razas medianas y grandes.",
+    "details": "1kg & 3kg - Para caninos adultos",
     "image": "http://drive.google.com/uc?export=view&id=16BkRGZVcKF86NiB1A74MmkBIPlUXtxnN"
   },
   {
     "id": 5,
     "name": "Purina Pro Plan",
-    "description": "Piel sensible, razas pequeñas",
-    "details": "1kg & 3kg - Adultos",
+    "description": "Piel sensible. Para razas pequeñas.",
+    "details": "1kg & 3kg - Para caninos adultos",
     "image": "http://drive.google.com/uc?export=view&id=1Ryuq-bt8CywiQCgSEoqD5bfWA91toKt5"
   },
   {
     "id": 6,
     "name": "Purina Alpo",
-    "description": "Adulto",
-    "details": "30kg",
+    "description": "Carne asada con vegetales.",
+    "details": "30kg - Para caninos adultos",
     "image": "http://drive.google.com/uc?export=view&id=18lJR9HuDSLolEEg9M73gGH3fBsnl1Qa5"
   },
   {
     "id": 7,
     "name": "Purina Pro Plan",
-    "description": "Gato cachorro castrado",
+    "description": "Para felinos esterilizados.",
     "details": "3kg",
     "image": "http://drive.google.com/uc?export=view&id=1AWB3nFLVurwizkaizxn7F6cCb3-zb9xP"
   },
   {
     "id": 8,
     "name": "Purina Cat Chow",
-    "description": "Gato cachorro",
-    "details": "500g",
+    "description": "Purina Cat Chow Gatitos.",
+    "details": "500g. Para felinos cachorros",
     "image": "http://drive.google.com/uc?export=view&id=1R-0wtVPjMZK9jdX6araNvmqE9lbrB6ip"
   },
   {
     "id": 9,
-    "name": "Purina Cat Chow Delimix",
-    "description": "Adulto y cachorro",
-    "details": "15kg",
+    "name": "Purina Cat Chow",
+    "description": "Purina Cat Chow Delimix.",
+    "details": "15kg. Para felinos adultos y cachorros",
     "image": "http://drive.google.com/uc?export=view&id=1qUpAWW9UuG2OE7OkGkwn6AAT3S8dU0CX"
   }
 ]

@@ -2,14 +2,14 @@
   {
     "id": 1,
     "name": "Pen Duo Strep 250/200",
-    "description": "Dihidroestreptomicina",
+    "description": "Dihidroestreptomicina como sulfato.",
     "details": "100mL",
     "image": "http://drive.google.com/uc?export=view&id=1mhhgUzmei-mjlsvnuK76taz2XixlIti9"
   },
   {
     "id": 2,
-    "name": "Oxitetraciclina 200mg/ml",
-    "description": "Antibiótico de amplio espectro",
+    "name": "Oxitetraciclina HCI",
+    "description": "Antibiótico de amplio espectro.",
     "details": "20mL y 100mL",
     "image": "http://drive.google.com/uc?export=view&id=1i8-iob-s3EdcRwsze2mXC9z1zqG2KtLQ"
   },
@@ -22,29 +22,29 @@
   },
   {
     "id": 4,
-    "name": "Eritrivet",
-    "description": "Antibiotico oral",
+    "name": "Eritrovet",
+    "description": "Eritromicina. Antibiótico oral.",
     "details": "30g",
     "image": "http://drive.google.com/uc?export=view&id=1j2vusVDTBVZ7SEPfg2_N9pMyFFOxYHZu"
   },
   {
     "id": 5,
-    "name": "Oxitetraciclina 200mg/ml",
-    "description": "Larga acción",
+    "name": "Oxitetraciclina",
+    "description": "Antibiótico. Larga acción.",
     "details": "50mL",
     "image": "http://drive.google.com/uc?export=view&id=1FMTBdY3wn8AtWzm8kjK3uMoH9-TcdmOM"
   },
   {
     "id": 6,
     "name": "Gentamox",
-    "description": "Amoxicilina y gentamicina",
+    "description": "Amoxicilina y gentamicina, en suspensión inyectable.",
     "details": "100mL",
     "image": "http://drive.google.com/uc?export=view&id=1z2PCi8zhWplUY3eNBJuEjUwesVeuW0EF"
   },
   {
     "id": 7,
     "name": "Curacef Duo",
-    "description": "Cefalosporina betalactámica",
+    "description": "Cefalosporina betalactámica de amplio espectro y antiinflamatorio no esteroidal.",
     "details": "100mL",
     "image": "http://drive.google.com/uc?export=view&id=1ZbhZYms4CVVLRAGuITGZ-vnBOomebWjW"
   }

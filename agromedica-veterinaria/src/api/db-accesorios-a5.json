@@ -2,99 +2,99 @@
   {
     "id": 1,
     "name": "Arenero",
-    "description": "",
-    "details": "Para gato pequeño o mediano",
+    "description": "Arenero para felino pequeño o mediano.",
+    "details": "Pala incluida",
     "image": "http://drive.google.com/uc?export=view&id=1FR2uCJYkSAarthTZvOnyNSLiz8dc2RLU"
   },
   {
     "id": 2,
-    "name": "Arena para gato",
-    "description": "",
-    "details": "",
+    "name": "Arena para felino",
+    "description": "No aglomerante. Sistema superior de control de olores.",
+    "details": "7lb",
     "image": "http://drive.google.com/uc?export=view&id=1T3c4A28gMUpxlh4MUCkyElWcTbpbofr9"
   },
   {
     "id": 3,
-    "name": "Bolsas de basura para mascota",
-    "description": "",
-    "details": "",
+    "name": "Bolsas de basura",
+    "description": "Bolsas de basura para mascota.",
+    "details": "Incluye 3 rollos de bolsas",
     "image": "http://drive.google.com/uc?export=view&id=1nwpa-JYQGkwYnO8zSZNaxavVJgmeCm6v"
   },
   {
     "id": 4,
     "name": "Calzón higiénico",
-    "description": "",
+    "description": "Chiva",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1RCSSJNqgeIwLrHX3dgiiRLHtq5PBMOZG"
   },
   {
     "id": 5,
     "name": "Camas para mascota",
-    "description": "",
+    "description": "Eximus. Camas premium para mascotas.",
     "details": "Variedad en tamaños",
-    "image": "http://drive.google.com/uc?export=view&id=1RIsgs7DBQdb-VTXS00Upz1uMZ_KyYCSk"
+    "image": "http://drive.google.com/uc?export=view&id=1IlvkyuyYVXC4oD5w0bXAdHqnzO1WQt73"
   },
   {
     "id": 6,
     "name": "Camas para mascota",
-    "description": "",
+    "description": "Camas estándar para mascotas.",
     "details": "Variedad en tamaños",
-    "image": "http://drive.google.com/uc?export=view&id=1BgWIr0ZvKmbJW6-5xvVYKwcLQU9EpgYv"
+    "image": "http://drive.google.com/uc?export=view&id=1RIsgs7DBQdb-VTXS00Upz1uMZ_KyYCSk"
   },
   {
     "id": 7,
     "name": "Manta de tela",
-    "description": "Manta de tela para mascota",
+    "description": "Manta de tela para mascota.",
     "details": "",
-    "image": "http://drive.google.com/uc?export=view&id=1QumF6ojnbl-bTK2TapesOoTQiKz_DrZG"
+    "image": "http://drive.google.com/uc?export=view&id=1BgWIr0ZvKmbJW6-5xvVYKwcLQU9EpgYv"
   },
   {
     "id": 8,
     "name": "Transportador",
-    "description": "Transportador con puerta de metal",
+    "description": "Transportador con puerta de metal.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=16gWvtqXKUH1uY9I7VzGgPeJjfyEqs-yc"
   },
   {
     "id": 9,
     "name": "Transportador",
-    "description": "Transportador para mascota",
-    "details": "",
+    "description": "Transportador estándar.",
+    "details": "Diseño de osos.",
     "image": "http://drive.google.com/uc?export=view&id=1SOwWS0Q9vvZtCnIIHFlX-jaGx5_zNRmK"
   },
   {
     "id": 10,
     "name": "Banda de cumpleaños",
-    "description": "",
-    "details": "",
+    "description": "1 Pieza.",
+    "details": "Talla única",
     "image": "http://drive.google.com/uc?export=view&id=1mMTJhUzpRv_izpmorLB2T03N2o3B94yW"
   },
   {
     "id": 11,
     "name": "Cuadro para foto",
-    "description": "Para mascota",
+    "description": "Westport. Cuadro para foto de mascota.",
     "details": "Diseño de Scottish Terrier",
     "image": "http://drive.google.com/uc?export=view&id=1hYnHgDSoPZw5G5SDuj3vgofgyiGdK13j"
   },
   {
     "id": 12,
     "name": "Stickers de mascota",
-    "description": "Variedad en diseños",
-    "details": "",
+    "description": "",
+    "details": "Variedad en diseños",
     "image": "http://drive.google.com/uc?export=view&id=1NuP95lJ2FylfLOP_nZusrDEkqnZQMsAz"
   },
   {
     "id": 13,
-    "name": "Articulo?",
-    "description": "",
+    "name": "Rascador para felino",
+    "description": "Rascador para felino. Lima uñas y rasca espalda.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1-IJ5n4_J2s_nPkN6ksk63VZ2TAuYvZmV"
   },
   {
     "id": 14,
     "name": "Red para pez",
-    "description": "",
-    "details": "",
+    "description": "Boyu.",
+    "details": "150mm 15,24cm.",
     "image": "http://drive.google.com/uc?export=view&id=1ZucuMJCUrneMN463kWbGXHA3SzOC84DQ"
   }
 ]

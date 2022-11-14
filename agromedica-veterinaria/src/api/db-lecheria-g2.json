@@ -8,141 +8,113 @@
   },
   {
     "id": 2,
-    "name": "Rigoran ",
+    "name": "Rigoran",
     "description": "Aceite mineral. Laxante y purgante.",
     "details": "1L",
     "image": "http://drive.google.com/uc?export=view&id=14fL-cgvxh7UXqkqIc8XsxSeUg_3KLie9"
   },
   {
     "id": 3,
-    "name": "Valtán Antiséptico Uterino",
-    "description": "Antiséptico",
+    "name": "Valtán",
+    "description": "Valtán Antiséptico Uterino.",
     "details": "1L",
     "image": "http://drive.google.com/uc?export=view&id=1kq-hBALbjeHOkp7ny053tfXbp_oHHF-D"
   },
   {
     "id": 4,
     "name": "Tintura de Yodo 7%",
-    "description": "Antiséptico",
+    "description": "Antiséptico.",
     "details": "1L",
     "image": "http://drive.google.com/uc?export=view&id=1EjJum9yTWTL0RP6isT0_nnpDa8SZwjnC"
   },
   {
     "id": 5,
     "name": "Sanitizante yodado",
-    "description": "Línea profesional de cocinas y restaurantes",
+    "description": "Sanitizante y desinfectante yodado multipropósito de amplio espectro germicida. Destruye bacterias, hongos, esporas y gérmenes en distintas superficies.",
     "details": "3.8L",
     "image": "http://drive.google.com/uc?export=view&id=16z5NK1RCIeadQ2gLRl17eRGwO4vkaQ_y"
   },
   {
     "id": 6,
-    "name": "Loción para cascos y pezuñas",
-    "description": "Solución de uso tópico.",
+    "name": "Loción",
+    "description": "Loción para cascos y pezuñas. Solución de uso tópico.",
     "details": "1L",
     "image": "http://drive.google.com/uc?export=view&id=1ZttXcO4wTX8xddUfoz97DaUcZwtLOhiS"
   },
   {
     "id": 7,
-    "name": "Celmanax Líquido",
-    "description": "Aditivo prebiótico nutricional para animales.",
+    "name": "Celmanax",
+    "description": "Celmanax Líquido. Aditivo prebiótico nutricional para animales.",
     "details": "1L",
     "image": "http://drive.google.com/uc?export=view&id=1hETZLndGHdQoySeHkUWdHvQ3KTPKmCHk"
   },
   {
     "id": 8,
     "name": "Criolina",
-    "description": "Creosota al 4%",
-    "details": "Pequeño",
-    "image": "http://drive.google.com/uc?export=view&id=1_s5_9Qr4PTk50rEllv3kOYSfBJ1oxmAx"
-  },
-  {
-    "id": 9,
-    "name": "Criolina",
-    "description": "Creosota al 4%",
-    "details": "Mediano",
+    "description": "Creosota al 4%. Biodegradable.",
+    "details": "Tamaños: pequeño, mediano y grande",
     "image": "http://drive.google.com/uc?export=view&id=1aGOvCrrFFNnoAf889nPmxjI_WN3lgYJx"
   },
   {
-    "id": 10,
-    "name": "Criolina",
-    "description": "Creosota al 4%",
-    "details": "Grande",
-    "image": "http://drive.google.com/uc?export=view&id=1uR1bEMpO9HEFTFU7oAteaIhqho3dHJ9O"
-  },
-  {
-    "id": 11,
-    "name": "Filtex - Filtros para leche",
-    "description": "Múltiples ventajas",
+    "id": 9,
+    "name": "Filtros para leche",
+    "description": "Filtex. Filtración uniforme. Mayor duración.",
     "details": "17.5cm de diámetro",
     "image": "http://drive.google.com/uc?export=view&id=1wbjDPe-giEN5iLXBWF3kCV9KcEAY_02H"
   },
   {
-    "id": 12,
+    "id": 10,
     "name": "Aceite mineral",
-    "description": "Laxante y lubricante intestinal",
-    "details": "1L",
+    "description": "Laxante y lubricante intestinal.",
+    "details": "1L y 3800mL",
     "image": "http://drive.google.com/uc?export=view&id=1ZR4iMpACnFe8ZxVMvWayPxVb_-luKRXT"
   },
   {
-    "id": 13,
-    "name": "Aceite mineral",
-    "description": "Laxante y lubricante intestinal",
-    "details": "3800mL",
-    "image": "http://drive.google.com/uc?export=view&id=1VrBs23mgPrxKCRP72KiV_IA9Hrw7v8sd"
-  },
-  {
-    "id": 14,
-    "name": "Quetsall - El Cuajo Es Hoy",
-    "description": "Coagulante microbiano doble fuerza",
+    "id": 11,
+    "name": "Cuajo líquido",
+    "description": "Quetsall. Coagulante microbiano doble fuerza.",
     "details": "500mL",
     "image": "http://drive.google.com/uc?export=view&id=1EqbxJby4ELVOCGhiStvlQ_vN6k1fBjXe"
   },
   {
-    "id": 15,
+    "id": 12,
     "name": "Cuajo 3 Muñecas",
     "description": "",
-    "details": "125mL, 240mL y 500",
+    "details": "125mL, 240mL y 500mL",
     "image": "http://drive.google.com/uc?export=view&id=1oGM_M0u2MpT0n4oN_9rA5Oq1ZoBaRDwT"
   },
   {
-    "id": 16,
-    "name": "Milky clean",
-    "description": "",
-    "details": "",
-    "image": "http://drive.google.com/uc?export=view&id=1HqyWtjy8NX45eS13nHp8R-eDYHTpUI9g"
-  },
-  {
-    "id": 17,
-    "name": "Aceite",
-    "description": "Lubricante para bombas de vacío - ISO 68",
+    "id": 13,
+    "name": "Aceite lubricante",
+    "description": "Lubricante para bombas de vacío - ISO 68.",
     "details": "3.78mL",
     "image": "http://drive.google.com/uc?export=view&id=1zRiGvlXXOiHMCci2NsYSJ2d1UAmWNn6h"
   },
   {
-    "id": 18,
-    "name": "Jabón líquido azul de alta espuma",
-    "description": "",
+    "id": 14,
+    "name": "Jabón",
+    "description": "Jabón líquido azul de alta espuma.",
     "details": "3.78mL",
     "image": "http://drive.google.com/uc?export=view&id=18xCbLMDh2Wko9f1KW7s-dgqMDvu_bRTn"
   },
   {
-    "id": 19,
-    "name": "Limpiador ácido para equipos de ordeño",
-    "description": "",
+    "id": 15,
+    "name": "Limpiador",
+    "description": "Limpiador ácido para equipos de ordeño.",
     "details": "3.78mL",
     "image": "http://drive.google.com/uc?export=view&id=1uWxK0wMGA10y0o-A4FFC9LEFiLwKwZWE"
   },
   {
-    "id": 20,
-    "name": "Fluconazol",
+    "id": 16,
+    "name": "Sanitizante",
     "description": "Sanitizante Lechero Plus.",
     "details": "3.78mL",
     "image": "http://drive.google.com/uc?export=view&id=1ycb1vrMaFriC1pP0W5wW5U_I8B1eQYEK"
   },
   {
-    "id": 21,
-    "name": "Sellador de barrera con yodo",
-    "description": "",
+    "id": 17,
+    "name": "Sellador",
+    "description": "Sellador de barrera con yodo.",
     "details": "3.78mL",
     "image": "http://drive.google.com/uc?export=view&id=1Fjti0bgpvuToPwVyD1peVqCyh-t4ETgm"
   }

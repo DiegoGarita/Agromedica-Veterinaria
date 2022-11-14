@@ -2,63 +2,63 @@
   {
     "id": 1,
     "name": "Amoxi-Tabs C-250",
-    "description": "Antibiotico con inhibidor de resistencia bacteriana",
+    "description": "Antibiótico de amplio espectro con inhibidor de resistencia bacteriana.",
     "details": "50 tabletas",
     "image": "http://drive.google.com/uc?export=view&id=1FP0qt62j1eov14ffw6NsvIs9lwWpdrkj"
   },
   {
     "id": 2,
     "name": "Rilexine 300 palatable",
-    "description": "Terapia antibiotica para perros y gatos",
+    "description": "Terapia antibiótica para caninos y felinos.",
     "details": "14 tabletas",
     "image": "http://drive.google.com/uc?export=view&id=1hz0vypXtdAs7Ldbqt1Iyrb_MsT_88w5U"
   },
   {
     "id": 3,
     "name": "Baytril flavour",
-    "description": "Enrofloxacina",
+    "description": "Enrofloxacina. Para caninos grandes.",
     "details": "20 tabletas",
     "image": "http://drive.google.com/uc?export=view&id=15Xg2iWRA3aK6p9hlUuHQrJFHFq8OIEE5"
   },
   {
     "id": 4,
     "name": "Stomorgyl 2",
-    "description": "Espiramicina - Metronidazol - Excipientes. Perros y gatos",
+    "description": "Espiramicina, metronidazol, excipientes. Caninos y felinos.",
     "details": "20 comprimidos (120mg)",
     "image": "http://drive.google.com/uc?export=view&id=1LT3ZkMnEwBln53itYgYnj8Vp7qczhHeJ"
   },
   {
     "id": 5,
     "name": "Stomorgyl 10",
-    "description": "Espiramicina - Metronidazol - Excipientes. Perros y gatos",
+    "description": "Espiramicina, metronidazol, excipientes. Caninos y felinos.",
     "details": "20 comprimidos (600mg)",
     "image": "http://drive.google.com/uc?export=view&id=17_jIlO3aip4af_FTCd8CGznTz4XNUajw"
   },
   {
     "id": 6,
     "name": "Stomorgyl 20",
-    "description": "Espiramicina - Metronidazol. Perros",
+    "description": "Espiramicina, metronidazol. Caninos.",
     "details": "10 comprimidos",
     "image": "http://drive.google.com/uc?export=view&id=1HFQx09ZAI8E_wOc5wDSasuUzaHkGiR6x"
   },
   {
     "id": 7,
     "name": "Enrocilina",
-    "description": "Enrofloxacina. Antibiotico bactericida",
+    "description": "Enrofloxacina. Antibiótico bactericida.",
     "details": "Tabletas",
     "image": "http://drive.google.com/uc?export=view&id=14NgWykeJJ7nx_E84IJHqJESmHNcLYdEY"
   },
   {
     "id": 8,
     "name": "Cefalexina P.A.",
-    "description": "Para gatos y perros",
+    "description": "Para felinos y caninos.",
     "details": "500mg",
     "image": "http://drive.google.com/uc?export=view&id=1DZrD54nIfyLCwCEzQSLM1taGA0fra_GM"
   },
   {
     "id": 9,
     "name": "Dirulán",
-    "description": "Furosemida diurético",
+    "description": "Furosemida diurético.",
     "details": "20 tabletas (50mg)",
     "image": "http://drive.google.com/uc?export=view&id=1UGvjlUxpc07G1aAuMxXvNID53XgfA-JK"
   }

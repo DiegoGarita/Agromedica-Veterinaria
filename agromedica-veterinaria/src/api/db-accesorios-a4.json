@@ -1,106 +1,106 @@
 [
   {
     "id": 1,
-    "name": "Bebedero para hamster",
-    "description": "",
-    "details": "",
+    "name": "Bebedero para hámster",
+    "description": "Eximus.",
+    "details": "Hasta 120mL",
     "image": "http://drive.google.com/uc?export=view&id=1zch1miSm7rrPrKMUAdfz-OI0XO2kWtQ_"
   },
   {
     "id": 2,
     "name": "Bebedero para ave",
-    "description": "",
+    "description": "Eximus.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1A-7ibFo5m1RATSKHcM4Rx9q9HEDu5EVT"
   },
   {
     "id": 3,
     "name": "Bebedero para colibrí",
-    "description": "",
+    "description": "Bomba de agua a presión.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=10RP_3r2Q9YOm3tKzykDkjaJq2eQgmuZd"
   },
   {
     "id": 4,
     "name": "Bebedero",
-    "description": "",
-    "details": "",
+    "description": "Bebedero para aves de corral.",
+    "details": "Tamaño pequeño y mediano",
     "image": "http://drive.google.com/uc?export=view&id=1-AFh5wt4cPrGlYi3aMSjMmYtnY6uHGP2"
   },
   {
     "id": 5,
     "name": "Comedero de cerámica",
-    "description": "",
+    "description": "Comedero de cerámica para mascota.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=15onPYz2aRD9j4ZPJcyGz25shcYSRnVFl"
   },
   {
     "id": 6,
     "name": "Comedero doble",
-    "description": "",
+    "description": "Comedero doble para mascota.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=12HFMLGBj5a3YW_grdygT9ee-XeBHz3cA"
   },
   {
     "id": 7,
     "name": "Comedero gato",
-    "description": "Comedero con forma de gato",
+    "description": "Comedero con forma de gato para mascota.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1S8p0bFr5hzto0aXjCr79is8yWTIV-VvB"
   },
   {
     "id": 8,
     "name": "Comedero lento",
-    "description": "Ayuda a que mascota coma lento",
+    "description": "Comedero lento, ayuda a que la mascota coma lento",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1BWs-A9crO0fRmN-lAVwvDBd1UyIdlBGe"
   },
   {
     "id": 9,
     "name": "Comedero de metal",
-    "description": "Diseño #1",
+    "description": "Diseño #1. Comedero o bebedero de metal para mascota.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=17kd3IrDufjfnxpymwUnRPCYezS6ImqYk"
   },
   {
     "id": 10,
     "name": "Comedero de metal",
-    "description": "Diseño #2",
+    "description": "Diseño #2. Comedero o bebedero de metal para mascota.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1WUTNzJSdcod9ZBA-N2lx2y1Q7gZbNnNy"
   },
   {
     "id": 11,
     "name": "Comedero grande",
-    "description": "",
+    "description": "Comedero grande para aves de corral.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1uoxqhkgxm7hT6JHvuzxiUfnF-9Zin1qq"
   },
   {
     "id": 12,
     "name": "Comedero para aves",
-    "description": "",
-    "details": "",
+    "description": "Comedero para aves.",
+    "details": "Variedad de diseños",
     "image": "http://drive.google.com/uc?export=view&id=1tbOH01_rFLJcunOZ3smWgtMFsUuTf3Sc"
   },
   {
     "id": 13,
-    "name": "Comedero pegable",
-    "description": "Pegable a superficies laterales",
+    "name": "Comedero fijo",
+    "description": "Comedero fijo para superficies laterales",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1WNBMqNr1xS33aDpWPe19ZLv28As3yjB-"
   },
   {
     "id": 14,
     "name": "Comedero",
-    "description": "",
+    "description": "Comedero mediano y pequeño para aves de corral.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1IgTCvyocXtHg7IYoRAa72VUJtu10Mt-0"
   },
   {
     "id": 15,
-    "name": "Platos para mascota",
-    "description": "Platos de cumpleaños",
+    "name": "Platos de cumpleaños",
+    "description": "Platos de cumpleaños para mascota.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1-DdiBVUuU8mmPNsTEgyp_AiagJLryEUO"
   }

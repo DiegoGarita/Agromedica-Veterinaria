@@ -2,21 +2,21 @@
   {
     "id": 1,
     "name": "Botellas spray",
-    "description": "Botellas para desinfectar",
+    "description": "Botellas para desinfectar.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1SA3z3Y3RWxVJWUK58WPpYLPjPEu3mOEk"
   },
   {
     "id": 2,
-    "name": "Clavos para caballo",
-    "description": "Standard",
+    "name": "Clavos para herradura",
+    "description": "Standard. Clavos para herradura de caballo.",
     "details": "100 piezas. Tamaño ASV-5",
     "image": "http://drive.google.com/uc?export=view&id=1parNH8KVIGkLLFEW5PSTD5FcsCFmehyO"
   },
   {
     "id": 3,
-    "name": "Corona - Clavos de herrar",
-    "description": "Ajuste perfecto",
+    "name": "Clavos de herrar",
+    "description": "Corona. Clavos de herrar con ajuste perfecto.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1krjZCrkS15whYoDm2Bz-YeFEcj73g8q1"
   },
@@ -29,9 +29,9 @@
   },
   {
     "id": 5,
-    "name": "Hauptner Herberholz",
-    "description": "Sensitive quality",
-    "details": "",
+    "name": "Equipos de cría de animales",
+    "description": "Hauptner Herberholz.",
+    "details": "Identificación de animales. Equipos de cría de animales. Instrumentos veterinarios.",
     "image": "http://drive.google.com/uc?export=view&id=1t5ZfXU_Kfo9ljKJ8u-EdNVVJDQSgGpuw"
   },
   {
@@ -44,29 +44,29 @@
   {
     "id": 7,
     "name": "Farm O San - Reviva",
-    "description": "Calcio en bovinos",
+    "description": "Aumenta el calcio en bovinos.",
     "details": "",
     "image": "http://drive.google.com/uc?export=view&id=1JbaSlhQBqxFZfl9CeVnaIEutvhPsNdeO"
   },
   {
     "id": 8,
     "name": "Suplemento mineral",
-    "description": "Eficiencia en nutrición.",
+    "description": "Tierras Altas. Con minerales orgánicos y vitaminas que coadyuva a mejorar la actividad ovárica y salud de las hembras en etapa de reproducción.",
     "details": "20kg",
     "image": "http://drive.google.com/uc?export=view&id=1UzA1SlvbrwiXJuh48jG2M3czBau7j_9y"
   },
   {
     "id": 9,
-    "name": "Sprayfo - Calf Milk Remplazador. Rojo",
-    "description": "",
-    "details": "",
+    "name": "Reemplazador de leche de ternera",
+    "description": "Sprayfo. Rojo.",
+    "details": "Ganancia de peso en terneros",
     "image": "http://drive.google.com/uc?export=view&id=1Oi_59ar5lBowhae6nR5Q2cW81HPNYwpU"
   },
   {
     "id": 10,
     "name": "Celmanax",
-    "description": "",
-    "details": "",
+    "description": "Arm & Hammer Animal and Food Production.",
+    "details": "Proporciona más ventajas que cualquier cultivo individual de levadura, mono y oligosacáridos o ingrediente de glucano en el alimento balanceado, y ofrece numerosas ventajas para la salud y la inmunidad de los animales que puede ayudar a potenciar el desempeño y aumentar la productividad.",
     "image": "http://drive.google.com/uc?export=view&id=1eQTzSiBSGTMvYEIPE4kjYgx3sZpUlWco"
   }
 ]

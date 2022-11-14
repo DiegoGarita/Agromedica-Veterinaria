@@ -2,120 +2,120 @@
   {
     "id": 1,
     "name": "Alpo T-Bonz",
-    "description": "Tipo chuleta",
-    "details": "283g - Adultos",
+    "description": "En forma de chuleta.",
+    "details": "283g - Para caninos adultos",
     "image": "http://drive.google.com/uc?export=view&id=1LS2I7iFBxAykRFJUjAqq2CdWg5Yw9O7m"
   },
   {
     "id": 2,
     "name": "Catit",
-    "description": "Sobres de pasta",
-    "details": "10g - Adultos y cachorros",
+    "description": "Sobres de pasta cremosa con variedad en sabores.",
+    "details": "10g - Para felinos adultos y cachorros",
     "image": "http://drive.google.com/uc?export=view&id=1DTggjtDGoaAuEctTwoYbiyf-U0IypJCq"
   },
   {
     "id": 3,
     "name": "Crupis",
-    "description": "Snacks variedad",
-    "details": "Por unidad",
+    "description": "Snacks con variedad en sabores.",
+    "details": "Venta por unidad",
     "image": "http://drive.google.com/uc?export=view&id=1YH9xFvXD0nk-ASnDtR3VN_n_4RKPn-8T"
   },
   {
     "id": 4,
     "name": "Purina Dentalife",
-    "description": "Barritas",
-    "details": "193g - Adultos",
+    "description": "Barritas para el cuidado oral diario.",
+    "details": "193g - Para caninos adultos",
     "image": "http://drive.google.com/uc?export=view&id=1sTDovmiE4ADNf0Sd1zNXARmXcOgcX10j"
   },
   {
     "id": 5,
     "name": "Dog Chow",
-    "description": "Lata",
-    "details": "374g - Adulto y cachorro",
+    "description": "En lata. Variedad en sabores.",
+    "details": "374g - Para caninos adultos y cachorros",
     "image": "http://drive.google.com/uc?export=view&id=12aqU__BMektWl1ww5TyUNdwxXnjsgFfs"
   },
   {
     "id": 6,
     "name": "Dog Chow",
-    "description": "Sobre",
-    "details": "100g",
+    "description": "En sobre. Variedad en sabores.",
+    "details": "100g - Para caninos adultos y cachorros",
     "image": "http://drive.google.com/uc?export=view&id=1N31SOiOVQCLOT-fEBJTexk8PbGFh9Q8F"
   },
   {
     "id": 7,
     "name": "Purina Felix",
-    "description": "Lata",
-    "details": "156g - Adulto",
+    "description": "En lata. Variedad en sabores.",
+    "details": "156g - Para felinos adultos",
     "image": "http://drive.google.com/uc?export=view&id=1g1cSlylT8xSUR9FxGCPQXd7Sfy6p2xeN"
   },
   {
     "id": 8,
     "name": "Purina Felix",
-    "description": "Sobre",
-    "details": "85g - Adulto",
+    "description": "En sobre. Variedad en sabores.",
+    "details": "85g - Para felinos adultos",
     "image": "http://drive.google.com/uc?export=view&id=1KQwfgZwEKPa9iHqUeKHZ1vR98zNn6Ss0"
   },
   {
     "id": 9,
     "name": "Waldo!",
     "description": "Snacks en sobre",
-    "details": "85g - Adulto y cachorro",
+    "details": "85g - Para felinos adultos y cachorros",
     "image": "http://drive.google.com/uc?export=view&id=1lEkBHh-BTd_smFtOx7lHCmE8Y20BJgRc"
   },
   {
     "id": 10,
     "name": "Hills a/d",
-    "description": "Lata",
-    "details": "156g - Cuidado digestivo",
+    "description": "En lata. Cuidados urgentes.",
+    "details": "156g",
     "image": "http://drive.google.com/uc?export=view&id=1nckGgMutTtDNlm9C6H9QUIfFqAikczS6"
   },
   {
     "id": 11,
     "name": "Hills i/d",
-    "description": "Lata",
-    "details": "156g - Cuidado digestivo",
+    "description": "En lata. Cuidados digestivos.",
+    "details": "156g",
     "image": "http://drive.google.com/uc?export=view&id=18rbguwXRWeIo-q0fECxY6pGpJRU-DvkB"
   },
   {
     "id": 12,
     "name": "+QPets",
-    "description": "Variedad de snacks naturales",
-    "details": "Gran variedad",
+    "description": "Snacks y carnazas 100% naturales.",
+    "details": "Variedad de snacks en sabores y tipos",
     "image": "http://drive.google.com/uc?export=view&id=1yaU_htQiSQUG-u_Umm0Kmc6dz5GHZC2E"
   },
   {
     "id": 13,
     "name": "Pedigree",
-    "description": "Sobre",
-    "details": "100g - Adulto y cachorro",
+    "description": "En sobre. Variedad en sabores.",
+    "details": "100g - Para caninos adultos y cachorros",
     "image": "http://drive.google.com/uc?export=view&id=1NYKLFXKmqNxw63G2n05vn-TjXV4cqim6"
   },
   {
     "id": 14,
     "name": "ProPet",
-    "description": "Lata",
-    "details": "400g - Adulto y cachorro",
+    "description": "En lata.",
+    "details": "400g - Para caninos adultos y cachorros",
     "image": "http://drive.google.com/uc?export=view&id=1w304q5oa2rJybrPcCHSo3cqoqJEjX1Vz"
   },
   {
     "id": 15,
     "name": "Super Perro",
-    "description": "Lata",
-    "details": "400g - Adulto y cachorro",
+    "description": "En lata.",
+    "details": "400g - Para caninos adultos y cachorros",
     "image": "http://drive.google.com/uc?export=view&id=13tPjjtmP51mrOzc9ujZU0Q1tjwFujZ8C"
   },
   {
     "id": 16,
     "name": "Waldo!",
-    "description": "Snacks en sobre",
-    "details": "150g - Cachorro",
+    "description": "Snacks en sobre. Galletas biscuits.",
+    "details": "150g - Para caninos cachorros",
     "image": "http://drive.google.com/uc?export=view&id=10RgBgi51BiF2X_pdeQVUvKnoa4BSAsXL"
   },
   {
     "id": 17,
     "name": "Waldo!",
-    "description": "Snacks en sobre",
-    "details": "150g - Adulto",
+    "description": "Snacks en sobre. Sabor a cordero.",
+    "details": "150g - Para caninos adultos",
     "image": "http://drive.google.com/uc?export=view&id=1M2b0L90WHcTvKdlCBKisQ22x0yVpch92"
   }
 ]

@@ -1,85 +1,85 @@
 [
   {
     "id": 1,
-    "name": "Milpro tabletas palatables",
-    "description": "Endoparasiticida para gatos",
-    "details": "Gato +2Kg",
+    "name": "Milpro",
+    "description": "Tabletas palatables. Endoparasiticida para felinos.",
+    "details": "Para felinos de +2Kg",
     "image": "http://drive.google.com/uc?export=view&id=1GRx7UZqQxMnKhxSRF2f6vNipMKDE3oh7"
   },
   {
     "id": 2,
     "name": "Canisan F",
-    "description": "Antihelmíntico oral",
+    "description": "Antihelmíntico oral de amplio espectro. Sabor a miel.",
     "details": "10mL",
     "image": "http://drive.google.com/uc?export=view&id=1_tq6TzquYTj_6LvBKUIhooSdo1MfhNCI"
   },
   {
     "id": 3,
     "name": "Antiparasitario interno",
-    "description": "Comprimidos birranurados",
-    "details": "1 blister",
+    "description": "Comprimidos palatables.",
+    "details": "1 blíster",
     "image": "http://drive.google.com/uc?export=view&id=1poSjwo-MUFXoVoLJNpYOKkdz5f69Rp40"
   },
   {
     "id": 4,
-    "name": "One Tabletas",
-    "description": "Antiparasitario interno integral",
+    "name": "Antiparasitario interno",
+    "description": "One. Antiparasitario interno integral. Tabletas. Antiparasitario interno integral.",
     "details": "30 tabletas",
     "image": "http://drive.google.com/uc?export=view&id=1V9mpwnupsCW8HpbCPn6GsXi33J1RUK6y"
   },
   {
     "id": 5,
     "name": "Prafentel-3",
-    "description": "Desparasitante interno",
+    "description": "Desparasitante interno. Suspensión oral.",
     "details": "30mL",
     "image": "http://drive.google.com/uc?export=view&id=1t4AlGqgkiIMOFnEUK_m4Y6TIDWLLvYtA"
   },
   {
     "id": 6,
     "name": "Galgocal 600",
-    "description": "Antihelmíntico y giardicida",
+    "description": "Antihelmíntico y giardicida de amplio espectro.",
     "details": "Caja x 2 tabletas",
     "image": "http://drive.google.com/uc?export=view&id=1ZcdmaaVMGosQW8I8S3hk3DWnHPN9L_xk"
   },
   {
     "id": 7,
     "name": "Ovistop",
-    "description": "Desparasitante",
+    "description": "Desparasitante. Suspensión para felinos y caninos.",
     "details": "15mL",
     "image": "http://drive.google.com/uc?export=view&id=1-6ci9P6-WV9O5gWbxKKNvAk6oK-Sb33k"
   },
   {
     "id": 8,
     "name": "Antiparasitario interno",
-    "description": "Antiparasitario interno contra coccidios, giardias y nematodos",
+    "description": "Antiparasitario interno contra coccidios, giardias y nematodos.",
     "details": "15mL",
     "image": "http://drive.google.com/uc?export=view&id=1VoOYa2STwFrRD-IioszV4URvRGcsD69z"
   },
   {
     "id": 9,
     "name": "Drontal Puppy",
-    "description": "Antiparasitario interno para cachorros",
+    "description": "Antiparasitario interno para cachorros.",
     "details": "20mL",
     "image": "http://drive.google.com/uc?export=view&id=1b_H8LWo9HIJOKAcOO2Br1IpA2w8Kevi4"
   },
   {
     "id": 10,
     "name": "Galgocal 200",
-    "description": "Antihelmíntico y giardicida",
+    "description": "Antihelmíntico y giardicida de amplio espectro.",
     "details": "Caja x 2 tabletas",
     "image": "http://drive.google.com/uc?export=view&id=1ejo9B1qkSIOJQOPF2YHjszPbZEkBAK7W"
   },
   {
     "id": 11,
-    "name": "Drontal Plus saborizado",
-    "description": "Desparasitante. Tabletas saborizadas. Perros +10kg",
+    "name": "Drontal Plus",
+    "description": "Desparasitante de amplio espectro. Tabletas saborizadas. Caninos +10kg.",
     "details": "24 tabletas",
     "image": "http://drive.google.com/uc?export=view&id=1EQeHf11WSGA23NUiSDLYRL5C6ZXXILHS"
   },
   {
     "id": 12,
-    "name": "Drontal Plus saborizado",
-    "description": "Antiparasitario oral",
+    "name": "Drontal Plus",
+    "description": "Antiparasitario oral de amplio espectro para caninos.",
     "details": "1 tableta cada 35kg de peso",
     "image": "http://drive.google.com/uc?export=view&id=1AB6_3aJ9sYRFw4tMS55tQfykAQJTY7jg"
   },
@@ -87,203 +87,203 @@
     "id": 13,
     "name": "Heartgard Plus L",
     "description": "",
-    "details": "Para perros de 23kg a 45kg",
+    "details": "Para caninos de 23kg a 45kg",
     "image": "http://drive.google.com/uc?export=view&id=1TN2XPZsr49pKZZQiDqVyYCe18djbWqu9"
   },
   {
     "id": 14,
     "name": "Heartgard Plus S",
     "description": "",
-    "details": "Para perros hasta de 11kg",
+    "details": "Para caninos hasta de 11kg",
     "image": "http://drive.google.com/uc?export=view&id=1qebvvIs9JD_0y2zMpn0VdrhMOrJOfjEb"
   },
   {
     "id": 15,
     "name": "Endogard 30",
-    "description": "Endoparasiticida",
-    "details": "Perro 30kg",
+    "description": "Endoparasiticida.",
+    "details": "Para caninos de 30kg",
     "image": "http://drive.google.com/uc?export=view&id=1kWJ9Htrk0DQ6vkuiFCQJ1eofTALTTukC"
   },
   {
     "id": 16,
     "name": "Heartgard Plus M",
     "description": "",
-    "details": "Para perros de 12kg a 22kg",
+    "details": "Para caninos de 12kg a 22kg",
     "image": "http://drive.google.com/uc?export=view&id=1Pn-bPAIB1ZQgXA6mU_-e6ivJpSgQMUhM"
   },
   {
     "id": 17,
     "name": "Endogard 10",
-    "description": "Endoparasiticida",
-    "details": "Perro 10kg",
+    "description": "Endoparasiticida.",
+    "details": "Para caninos de 10kg",
     "image": "http://drive.google.com/uc?export=view&id=1kiV22UE61Z8eELJSdTurX5lYiYNNyRSo"
   },
   {
     "id": 18,
     "name": "Endogard 2.5",
-    "description": "Endoparasiticida",
-    "details": "Perro 2.5kg",
+    "description": "Endoparasiticida.",
+    "details": "Para caninos de 2.5kg",
     "image": "http://drive.google.com/uc?export=view&id=10u4yFQQdKAiMpuc6HdYx-TAy6fGKge4p"
   },
   {
     "id": 19,
     "name": "Ovistop",
-    "description": "Desparasitante",
-    "details": "Perro 40kg",
+    "description": "Desparasitante para caninos.",
+    "details": "Para caninos de 40kg",
     "image": "http://drive.google.com/uc?export=view&id=19tnC22tsZ_KJ5gBLB4KJiKRh6MVCK3M1"
   },
   {
     "id": 20,
     "name": "Ovistop",
-    "description": "Desparasitante perros y gatos",
+    "description": "Desparasitante caninos y felinos.",
     "details": "Mascota 2kg",
     "image": "http://drive.google.com/uc?export=view&id=1kebnjCB6afAgN4F6DQCgAMoZ59g__i_d"
   },
   {
     "id": 21,
     "name": "Endopar Plus",
-    "description": "Desparasitante interno",
-    "details": "15 Blisters con 10 tabletas",
+    "description": "Desparasitante interno.",
+    "details": "15 Blísters con 10 tabletas",
     "image": "http://drive.google.com/uc?export=view&id=1HrNsrh4fnWLpyhdOIXTJ2QdVPTb2Z9xS"
   },
   {
     "id": 22,
     "name": "Feline Endo Spot",
-    "description": "Actua contra nematodes y cestodes",
-    "details": "Gatos de 2kg a 5kg",
+    "description": "Actúa contra nematodes y cestodes.",
+    "details": "Para felinos de 2kg a 5kg",
     "image": "http://drive.google.com/uc?export=view&id=11h_84nR3bNfo2GJydIbjWVBA1mGEL4P0"
   },
   {
     "id": 23,
     "name": "Advantage multi",
     "description": "",
-    "details": "Gatos de hasta 4kg",
+    "details": "Para felinos de hasta 4kg",
     "image": "http://drive.google.com/uc?export=view&id=1JaBQL-iyWCuFMgojznCQBTRjodi4Aw-U"
   },
   {
     "id": 24,
     "name": "FiproDog",
-    "description": "Solución cutánea contra pulgas, piojos y garrapatas",
+    "description": "Solución cutánea contra pulgas, piojos y garrapatas.",
     "details": "Mascota con peso menor a 10kg",
     "image": "http://drive.google.com/uc?export=view&id=1tk8qc8CqVJNLKzKc9tzKy_GnuXbDwrJ7"
   },
   {
     "id": 25,
     "name": "Advantix",
-    "description": "Repele y mata garrapatas, pulgas y mosquitos",
-    "details": "Perro de 10kg a 25kg",
+    "description": "Repele y mata garrapatas, larvas, pulgas y mosquitos.",
+    "details": "Para caninos de 10kg a 25kg",
     "image": "http://drive.google.com/uc?export=view&id=1PtK1TIk5OgPJeqOvQuN2bOskif7Zw2R9"
   },
   {
     "id": 26,
     "name": "Rivolta 12%",
-    "description": "Antiparasitario externo e interno",
-    "details": "Perro de 5.1kg a 10kg",
+    "description": "Antiparasitario externo e interno.",
+    "details": "Para caninos de 5.1kg a 10kg",
     "image": "http://drive.google.com/uc?export=view&id=1sHFOu-PpB-uplD_3vh74JEvVC2Og0dx6"
   },
   {
     "id": 27,
     "name": "Rivolta 6%",
-    "description": "Antiparasitario externo e interno",
+    "description": "Antiparasitario externo e interno.",
     "details": "Mascota 2.5kg",
     "image": "http://drive.google.com/uc?export=view&id=1cqG3d6r5uRwPWPwQecwWw-Ep31nI09YH"
   },
   {
     "id": 28,
     "name": "Rivolta 12%",
-    "description": "Antiparasitario externo e interno",
-    "details": "Perro de 2.6kg a 5kg",
+    "description": "Antiparasitario externo e interno.",
+    "details": "Para caninos de 2.6kg a 5kg",
     "image": "http://drive.google.com/uc?export=view&id=1F3abp0dqsvf5JiaQzgehVEIvy6WExXx-"
   },
   {
     "id": 29,
     "name": "Rivolta 12%",
-    "description": "Antiparasitario externo e interno",
-    "details": "Perro de 20.1kg a 40kg",
+    "description": "Antiparasitario externo e interno.",
+    "details": "Para caninos de 20.1kg a 40kg",
     "image": "http://drive.google.com/uc?export=view&id=1WAqcAfaODLXXJyaTVUmoKAbNhQolLccj"
   },
   {
     "id": 30,
-    "name": "Xelamec Selamectina 6%",
-    "description": "Antiparasitario externo",
+    "name": "Selamectina 6%",
+    "description": "Xelamec. Antiparasitario externo.",
     "details": "Mascota hasta 2.5kg",
     "image": "http://drive.google.com/uc?export=view&id=1Y9Fl7zB0cTBuGq4gm4rs7JW2qtEnrhh_"
   },
   {
     "id": 31,
-    "name": "Xelamec Selamectina 6%",
-    "description": "Antiparasitario externo",
+    "name": "Selamectina 6%",
+    "description": "Xelamec. Antiparasitario externo.",
     "details": "Mascota de 2.5kg a 5kg",
     "image": "http://drive.google.com/uc?export=view&id=1yhwXn1oHDwSWosnSOvGcSRwtyuALpqPz"
   },
   {
     "id": 32,
-    "name": "Xelamec Selamectina 6%",
-    "description": "Antiparasitario externo",
+    "name": "Selamectina 6%",
+    "description": "Xelamec. Antiparasitario externo.",
     "details": "Mascota de 5kg a 10kg",
     "image": "http://drive.google.com/uc?export=view&id=1xC4GuxsExrayeOtPZcq-ctMKXxXYfwbL"
   },
   {
     "id": 33,
-    "name": "Xelamec Selamectina 6%",
-    "description": "Antiparasitario externo",
-    "details": "Perro de 10kg a 20kg",
+    "name": "Selamectina 6%",
+    "description": "Xelamec. Antiparasitario externo.",
+    "details": "Para caninos de 10kg a 20kg",
     "image": "http://drive.google.com/uc?export=view&id=1S1UIMOUTRdwxUoFyf-7qki2wAGh_TZVK"
   },
   {
     "id": 34,
     "name": "Revolution PLUS",
-    "description": "Elimina pulgas, garrapatas, piojos y larvas",
-    "details": "15mg. Gatos de hasta 2.5kg",
+    "description": "Elimina pulgas, garrapatas, piojos y larvas.",
+    "details": "15mg. Felinos de hasta 2.5kg",
     "image": "http://drive.google.com/uc?export=view&id=1zsoZEiNkkcxAFq9JNpEBpu2XJ39rCAFM"
   },
   {
     "id": 35,
     "name": "Revolution PLUS",
-    "description": "Elimina pulgas, garrapatas, piojos y larvas",
-    "details": "30mg. Gatos entre 2.5kg y 5kg",
+    "description": "Elimina pulgas, garrapatas, piojos y larvas.",
+    "details": "30mg. Felinos entre 2.5kg y 5kg",
     "image": "http://drive.google.com/uc?export=view&id=1pPHDTkKyYQGLLfXBI_DSvbO59mZEP1uB"
   },
   {
     "id": 36,
     "name": "Seresto",
     "description": "Elimina garrapatas, pulgas y piojos. Hasta 7-8 meses.",
-    "details": "Collar para perros pequeños y gatos",
+    "details": "Collar para caninos pequeños y felinos",
     "image": "http://drive.google.com/uc?export=view&id=1QpmdmX6iLRVlwwcpiFJv2-k4iW8iKinA"
   },
   {
     "id": 37,
     "name": "Seresto",
     "description": "Elimina garrapatas, pulgas y piojos. Hasta 7-8 meses.",
-    "details": "Collar para perros medianos y grandes",
+    "details": "Collar para caninos medianos y grandes",
     "image": "http://drive.google.com/uc?export=view&id=1wl_SDWZLREJMr58d9m2rkFOIgdXFfQKM"
   },
   {
     "id": 38,
     "name": "Simparica",
-    "description": "Ectoparasiticida",
-    "details": "Para perros de 20kg a 40kg",
+    "description": "Ectoparasiticida.",
+    "details": "Para caninos de 20kg a 40kg",
     "image": "http://drive.google.com/uc?export=view&id=1JbROtANyyL-SzlwHSqrbT313CrZVtVq_"
   },
   {
     "id": 39,
     "name": "Simparica",
-    "description": "Ectoparasiticida",
-    "details": "Para perros de 10kg a 20kg",
+    "description": "Ectoparasiticida.",
+    "details": "Para caninos de 10kg a 20kg",
     "image": "http://drive.google.com/uc?export=view&id=1VjO1sFQP_CYakd6vr5A0_kUgv_CAEgKN"
   },
   {
     "id": 40,
     "name": "Simparica",
-    "description": "Ectoparasiticida",
-    "details": "Para perros de 5kg a 10kg",
+    "description": "Ectoparasiticida.",
+    "details": "Para caninos de 5kg a 10kg",
     "image": "http://drive.google.com/uc?export=view&id=1H7hyeJsERnHiNQwrEQJfgpiTWX4_uhd2"
   },
   {
     "id": 41,
     "name": "Simparica",
-    "description": "Ectoparasiticida",
-    "details": "Para perros de 2.5kg a 5kg",
+    "description": "Ectoparasiticida.",
+    "details": "Para caninos de 2.5kg a 5kg",
     "image": "http://drive.google.com/uc?export=view&id=1ELfGMWgnqngve8mf8Srkh5YGu14TD2rT"
   }
 ]
